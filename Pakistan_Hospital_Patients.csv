@@ -1,0 +1,713 @@
+patient_id,hospital_name,city,age,gender,blood_type,diagnosis,ward,admission_date,length_of_stay_days,body_temp_F,systolic_bp,bill_pkr,insurance,outcome
+PAK-10507,Aga Khan Hospital Karachi,Lahore,10,Female,O+,Appendicitis,Orthopedic,7/11/2021,3,99.9,128,25600,Partial,Referred
+PAK-10395,Aga Khan Hospital Karachi,Quetta,27,Female,A+,Tuberculosis,ICU,5/27/2022,10,100.7,163,22900,No,Admitted
+PAK-10211,Aga Khan Hospital Karachi,Karachi,89,Male,A-,typhoid,ICU,9/22/2023,3,100.5,104,95400,,Deceased
+PAK-10248,Civil Hospital Karachi,Karachi,44,Male,O-,Hypertension,Pediatric,2/2/2024,9,96.8,,11900,,Admitted
+PAK-10438,Shaukat Khanum Lahore,islamabad,30,Male,A+,Appendicitis,Emergency,6/19/2022,17,102.2,160,39900,Yes,Discharged
+PAK-10437,Jinnah Hospital Lahore,Lahore,16,Male,,Fracture,Surgical,8/25/2021,26,101.9,143,111000,,Deceased
+PAK-10224,Liaquat National Karachi,KARACHI,35,Female,O+,Asthma,General,6/2/2023,8,98,155,19300,Yes,Under Treatment
+PAK-10216,Hayatabad Medical Peshawar,Multan,71,Male,B-,Malaria,General,3/26/2024,28,97.8,163,14600,Yes,Admitted
+PAK-10085,Shaukat Khanum Lahore,Lahore,14,Female,O+,Pneumonia,Orthopedic,4/15/2022,16,100.3,164,7500,No,Admitted
+PAK-10440,Shaukat Khanum Lahore,Multan,5,Female,A-,Kidney Stone,Orthopedic,4/4/2024,25,99.7,120,Rs.42200.0,No,Referred
+PAK-10050,Liaquat National Karachi,Lahore,87,Male,O-,Pneumonia,General,2/5/2024,10,98.9,159,12500,No,Discharged
+PAK-10121,Aga Khan Hospital Karachi,Islamabad,35,Female,AB+,COVID-19,Maternity,5/11/2021,1,98.4,112,31600,No,Discharged
+PAK-10087,Shaukat Khanum Lahore,Quetta,74,Male,AB+,Appendicitis,ICU,10/9/2022,2,97.4,161,70000,Yes,Discharged
+PAK-10653,aga khan hospital karachi,Quetta,87,Male,B-,Jaundice,Cardiac,5/4/2022,17,100.5,111,27600,No,Discharged
+PAK-10518,Jinnah Hospital Lahore,Karachi,52,Male,B-,Fracture,Pediatric,5/30/2021,7,98.1,172,4000,No,Admitted
+PAK-10613,PIMS Islamabad,Islamabad,63,Female,O+,Appendicitis,Pediatric,9/19/2021,2,100.1,117,33200,No,Admitted
+PAK-10064,Civil Hospital Karachi,Islamabad,84,Male,AB-,Tuberculosis,Emergency,7/24/2022,24,101.7,131,44800,No,Discharged
+PAK-10405,PIMS Islamabad,Multan,86,Male,O-,Pneumonia,Surgical,4/25/2023,15,99,105,26000,No,Referred
+PAK-10315,Services Hospital Lahore,Lahore,9,Male,A-,Tuberculosis,Surgical,3/22/2023,16,100.6,120,50400,,Admitted
+PAK-10334,Liaquat National Karachi,Multan,74,Male,B+,Diabetes Type 2,ICU,5/16/2022,17,98.9,139,40400,,Discharged
+PAK-10466,Services Hospital Lahore,Karachi,,Male,O-,Diabetes Type 2,Surgical,6/30/2024,3,96.1,152,101900,No,Admitted
+PAK-10209,Services Hospital Lahore,Karachi,54,Male,O+,appendicitis,Orthopedic,5/3/2022,26,101.8,118,12400,Partial,Under Treatment
+PAK-10546,Services Hospital Lahore,Multan,23,Female,A-,Hepatitis B,General,6/26/2023,14,99.8,104,8800,Yes,Discharged
+PAK-10517,Liaquat National Karachi,Multan,54,Male,B+,Dengue Fever,Surgical,6/5/2024,8,99.6,104,14600,No,Under Treatment
+PAK-10082,PIMS Islamabad,Islamabad,11,Male,A-,TUBERCULOSIS,Maternity,3/26/2022,28,101.1,114,21600,No,Admitted
+PAK-10679,Aga Khan Hospital Karachi,RAWALPINDI,15,Female,O+,Tuberculosis,General,7/28/2021,27,100,97,47900,Partial,Admitted
+PAK-10066,Civil Hospital Karachi,Quetta,70,Male,O+,Appendicitis,Surgical,1/18/2023,8,101.2,155,76700,No,Admitted
+PAK-10699,PIMS Islamabad,Lahore,49,Female,AB+,COVID-19,General,11/10/2021,26,101.5,137,31900,No,Discharged
+PAK-10292,PKLI Lahore,FAISALABAD,39,Female,B-,covid-19,Emergency,5/21/2021,22,99.9,159,8400,,Admitted
+PAK-10357,Jinnah Hospital Lahore,RAWALPINDI,78,Female,AB-,HYPERTENSION,Orthopedic,12/4/2022,28,104.3,171,129900,,Discharged
+PAK-10040,Hayatabad Medical Peshawar,Multan,42,Female,A+,Dengue Fever,ICU,1/6/2023,25,98.8,158,18500,No,Discharged
+PAK-10149,JINNAH HOSPITAL LAHORE,Lahore,50,Male,A-,Dengue Fever,Pediatric,11/10/2021,26,98,167,79100,No,Admitted
+PAK-10285,Services Hospital Lahore,Karachi,49,Female,O+,Hepatitis B,Pediatric,10/27/2023,3,101.4,150,50700,Partial,Discharged
+PAK-10667,Aga Khan Hospital Karachi,Peshawar,1,Female,A-,Asthma,Orthopedic,9/30/2022,16,99.2,144,32800,No,Deceased
+PAK-10197,Liaquat National Karachi,Islamabad,75,Male,B-,kidney stone,General,4/17/2022,4,100.4,166,Rs.15900.0,No,Discharged
+PAK-10119,PIMS Islamabad,Karachi,29,Male,,Fracture,ICU,5/15/2023,22,100.6,117,44600,Yes,Discharged
+PAK-10132,Hayatabad Medical Peshawar,PESHAWAR,43,Female,A-,COVID-19,ICU,7/1/2022,14,103,127,5900,No,Discharged
+PAK-10240,AGA KHAN HOSPITAL KARACHI,Quetta,28,Male,B-,dengue fever,ICU,10/15/2021,13,100.8,176,33100,No,Under Treatment
+PAK-10156,Jinnah Hospital Lahore,Karachi,86,Male,AB-,hepatitis b,Emergency,10/26/2022,6,103.6,111,78000,No,Admitted
+PAK-10608,Liaquat National Karachi,Rawalpindi,32,Female,AB+,hepatitis b,ICU,3/8/2023,15,101.4,142,11000,No,Discharged
+PAK-10537,PKLI Lahore,QUETTA,20,Male,AB-,Diabetes Type 2,Emergency,5/26/2022,2,101.3,132,20000,No,Admitted
+PAK-10210,Jinnah Hospital Lahore,KARACHI,71,Female,A+,Typhoid,Pediatric,7/25/2022,28,101.5,124,4500,Partial,Discharged
+PAK-10674,Civil Hospital Karachi,Karachi,21,Male,A+,FRACTURE,Surgical,3/24/2023,22,103,122,119800,No,Discharged
+PAK-10073,Hayatabad Medical Peshawar,Islamabad,65,Female,AB-,Heart Disease,ICU,6/1/2024,8,97.3,133,Rs.26300.0,Yes,Admitted
+PAK-10435,Services Hospital Lahore,Islamabad,84,Male,,Pneumonia,Orthopedic,11/10/2022,5,98.1,,13500,No,Admitted
+PAK-10332,Civil Hospital Karachi,Quetta,60,Female,,HYPERTENSION,Pediatric,12/16/2022,25,100.2,98,11900,Yes,Under Treatment
+PAK-10577,PKLI Lahore,Lahore,36,Female,AB+,Hypertension,Orthopedic,5/12/2021,24,101.9,160,53800,,Discharged
+PAK-10586,PKLI Lahore,Multan,14,Male,A-,Dengue Fever,Surgical,5/11/2023,11,100.3,171,14000,Yes,Discharged
+PAK-10055,Services Hospital Lahore,peshawar,2,Female,O-,jaundice,Surgical,1/29/2022,13,97.8,115,7100,Partial,Discharged
+PAK-10582,pims islamabad,Multan,62,Male,A+,PNEUMONIA,General,8/13/2023,20,99.9,,14000,No,Admitted
+PAK-10327,PKLI Lahore,ISLAMABAD,37,Male,O-,Fracture,ICU,1/7/2024,23,100.3,178,57600,,Discharged
+PAK-10591,PIMS Islamabad,Faisalabad,2,Male,A+,Heart Disease,Pediatric,2/19/2023,9,101.3,142,47300,Yes,Discharged
+PAK-10078,PIMS ISLAMABAD,Lahore,45,Female,B-,COVID-19,Cardiac,8/5/2023,13,101.1,97,76800,No,Discharged
+PAK-10258,Shaukat Khanum Lahore,Peshawar,80,Female,AB-,Malaria,Pediatric,9/13/2023,26,101.6,119,20200,Partial,Discharged
+PAK-10528,PIMS Islamabad,Faisalabad,79,Male,B-,Dengue Fever,Pediatric,1/12/2021,10,103,167,16900,No,Under Treatment
+PAK-10011,LIAQUAT NATIONAL KARACHI,rawalpindi,35,Female,,Pneumonia,Orthopedic,5/15/2023,24,103.7,92,8400,Yes,Discharged
+PAK-10364,Shaukat Khanum Lahore,lahore,7,Female,A-,Diabetes Type 2,ICU,7/9/2021,26,99.5,114,121400,No,Discharged
+PAK-10661,Liaquat National Karachi,Karachi,87,Female,A-,Kidney Stone,Surgical,1/26/2023,6,97.8,95,93200,No,Under Treatment
+PAK-10355,Civil Hospital Karachi,Karachi,10,Male,AB+,Pneumonia,Orthopedic,5/23/2024,1,100.6,105,34400,No,Admitted
+PAK-10136,Shaukat Khanum Lahore,Peshawar,57,Male,O-,Malaria,Orthopedic,6/10/2023,8,101.5,,11300,Yes,Discharged
+PAK-10146,Hayatabad Medical Peshawar,islamabad,45,Male,B+,COVID-19,Cardiac,11/6/2023,11,100.6,118,26200,Partial,Admitted
+PAK-10301,Jinnah Hospital Lahore,Peshawar,56,Female,AB-,Heart Disease,Orthopedic,5/2/2024,26,102.8,137,31600,Yes,Under Treatment
+PAK-10445,Hayatabad Medical Peshawar,Lahore,84,Female,A-,Fracture,Cardiac,6/9/2023,26,98.3,103,8700,No,Deceased
+PAK-10633,Aga Khan Hospital Karachi,Faisalabad,1,Female,O+,Appendicitis,Emergency,11/23/2022,10,99.9,134,62600,No,Discharged
+PAK-10590,PKLI Lahore,Multan,55,Male,B-,Malaria,Surgical,3/25/2024,3,99.4,97,30700,Partial,Admitted
+PAK-10694,PKLI Lahore,Karachi,73,Female,O+,Typhoid,Maternity,10/1/2023,24,100.5,135,14900,Yes,Deceased
+PAK-10397,services hospital lahore,lahore,21,Female,B+,Diabetes Type 2,ICU,12/26/2022,15,101.9,,21700,Yes,Admitted
+PAK-10137,PKLI Lahore,Islamabad,39,Female,B-,Tuberculosis,ICU,11/20/2021,27,99.7,127,19000,Partial,Under Treatment
+PAK-10421,CIVIL HOSPITAL KARACHI,Lahore,77,Female,A-,KIDNEY STONE,Pediatric,9/18/2022,15,100.2,155,96900,Yes,Deceased
+PAK-10337,Shaukat Khanum Lahore,Peshawar,19,Male,A+,Diabetes Type 2,ICU,11/20/2021,11,96,104,65700,Yes,Discharged
+PAK-10382,Shaukat Khanum Lahore,LAHORE,3,Male,A+,Typhoid,Emergency,3/15/2021,25,97.4,,24700,No,Discharged
+PAK-10312,Shaukat Khanum Lahore,Karachi,22,Male,A+,Kidney Stone,Maternity,10/6/2022,6,98.8,92,163600,Yes,Discharged
+PAK-10495,Jinnah Hospital Lahore,Faisalabad,14,Male,O+,Dengue Fever,Surgical,8/11/2023,4,101.7,100,13800,No,Discharged
+PAK-10409,Aga Khan Hospital Karachi,Rawalpindi,44,Female,B+,PNEUMONIA,ICU,4/24/2023,26,99.6,124,60800,Yes,Discharged
+PAK-10347,Jinnah Hospital Lahore,Multan,22,Female,B-,Fracture,ICU,10/3/2021,13,100,138,46200,No,Discharged
+PAK-10266,Civil Hospital Karachi,Karachi,68,Female,O+,Malaria,Orthopedic,6/28/2022,21,98.1,120,32200,Yes,Discharged
+PAK-10079,Jinnah Hospital Lahore,Lahore,23,Female,AB-,pneumonia,ICU,2/17/2023,7,100.2,146,49500,Yes,Discharged
+PAK-10032,Shaukat Khanum Lahore,Karachi,51,Female,O+,Fracture,General,7/24/2022,3,98.4,130,35700,No,Discharged
+PAK-10200,LIAQUAT NATIONAL KARACHI,Rawalpindi,19,Female,B+,Diabetes Type 2,Pediatric,1/15/2021,20,99.3,126,57200,No,Admitted
+PAK-10333,Jinnah Hospital Lahore,Lahore,39,Male,A+,Kidney Stone,Emergency,5/21/2021,20,100.3,176,9800,Yes,Under Treatment
+PAK-10406,Jinnah Hospital Lahore,Islamabad,70,Female,B+,Hepatitis B,Maternity,2/20/2021,17,99.5,105,6400,No,Discharged
+PAK-10646,JINNAH HOSPITAL LAHORE,Lahore,59,Male,A-,Dengue Fever,Surgical,3/24/2021,25,96.3,117,18900,Yes,Discharged
+PAK-10293,PIMS Islamabad,Islamabad,13,Female,A-,Hepatitis B,Orthopedic,5/3/2024,21,101.9,130,61300,No,Discharged
+PAK-10228,Jinnah Hospital Lahore,Multan,78,Male,O+,Appendicitis,Cardiac,8/15/2023,4,99.5,118,Rs.19400.0,No,Discharged
+PAK-10056,PKLI Lahore,Islamabad,37,Male,B+,Malaria,Emergency,5/23/2021,17,101.6,146,17600,No,Under Treatment
+PAK-10236,PIMS Islamabad,Quetta,72,Male,A+,TUBERCULOSIS,Emergency,1/28/2022,12,99,179,30800,No,Discharged
+PAK-10329,services hospital lahore,Faisalabad,50,Male,B-,Asthma,Cardiac,11/3/2023,8,100.3,177,41100,No,Discharged
+PAK-10265,Aga Khan Hospital Karachi,Lahore,15,Male,A+,Typhoid,Maternity,3/11/2023,9,98.5,177,36000,Yes,Referred
+PAK-10077,Liaquat National Karachi,Peshawar,36,Male,A-,Tuberculosis,Pediatric,12/1/2021,27,101.6,119,72500,Partial,Under Treatment
+PAK-10003,Liaquat National Karachi,Quetta,83,Female,AB-,Malaria,General,7/18/2022,28,101.4,134,12800,No,Discharged
+PAK-10257,PKLI Lahore,Rawalpindi,23,Female,A-,Jaundice,Cardiac,9/22/2023,3,101.2,176,52700,Partial,Discharged
+PAK-10102,civil hospital karachi,Karachi,47,Male,AB+,Fracture,Surgical,2/24/2024,23,96.3,122,23000,Partial,Admitted
+PAK-10110,Shaukat Khanum Lahore,Multan,6,Female,,TUBERCULOSIS,Maternity,3/26/2022,10,97.9,161,18100,Yes,Discharged
+PAK-10032,Shaukat Khanum Lahore,Karachi,51,Female,O+,Fracture,General,7/24/2022,3,98.4,130,35700,No,Discharged
+PAK-10098,PKLI Lahore,Quetta,64,Male,AB+,Hypertension,Orthopedic,10/20/2021,11,99.1,,Rs.19200.0,,Under Treatment
+PAK-10341,PIMS ISLAMABAD,Faisalabad,69,Male,AB-,Tuberculosis,ICU,6/6/2024,13,99.4,175,59400,No,Admitted
+PAK-10426,civil hospital karachi,Lahore,62,Female,AB+,Hypertension,ICU,3/28/2023,29,102.9,92,57500,No,Discharged
+PAK-10672,Aga Khan Hospital Karachi,Rawalpindi,5,Male,O+,Kidney Stone,Maternity,3/25/2024,4,99.4,116,37600,Partial,Admitted
+PAK-10175,Jinnah Hospital Lahore,Lahore,1,Female,AB+,Typhoid,Cardiac,12/5/2021,8,97.5,123,36500,Partial,Referred
+PAK-10681,Hayatabad Medical Peshawar,Peshawar,7,Female,O+,Hypertension,Cardiac,5/14/2024,8,101.5,131,,,Admitted
+PAK-10221,Services Hospital Lahore,karachi,89,Male,A-,Jaundice,Emergency,1/25/2022,8,102.1,,39600,No,Discharged
+PAK-10419,SHAUKAT KHANUM LAHORE,Faisalabad,36,Female,AB+,Tuberculosis,Cardiac,8/1/2023,14,100,109,,No,Admitted
+PAK-10569,Liaquat National Karachi,PESHAWAR,80,Male,AB+,Asthma,Orthopedic,1/12/2024,17,101.7,175,43300,,Discharged
+PAK-10520,Civil Hospital Karachi,LAHORE,41,Male,,Diabetes Type 2,Emergency,4/29/2023,12,93.8,175,32100,No,Referred
+PAK-10134,Hayatabad Medical Peshawar,Lahore,50,Female,A-,Fracture,Cardiac,8/17/2021,25,100.2,95,32300,Yes,Admitted
+PAK-10091,Jinnah Hospital Lahore,Karachi,5,Female,AB+,Kidney Stone,Orthopedic,3/9/2022,7,100.7,,46700,No,Admitted
+PAK-10598,Jinnah Hospital Lahore,Islamabad,58,Male,B-,Hepatitis B,Maternity,1/8/2024,17,102.5,152,Rs.15200.0,No,Admitted
+PAK-10319,Shaukat Khanum Lahore,Quetta,10,Female,O+,Jaundice,Cardiac,10/10/2022,4,101.6,161,21800,Partial,Discharged
+PAK-10325,Hayatabad Medical Peshawar,Karachi,49,Male,AB-,Appendicitis,Pediatric,7/24/2021,22,102.8,166,18500,No,Discharged
+PAK-10061,Shaukat Khanum Lahore,Peshawar,60,Female,B-,Appendicitis,Emergency,4/22/2022,15,98.4,149,8700,Yes,Under Treatment
+PAK-10491,Liaquat National Karachi,Lahore,67,Male,,Kidney Stone,Maternity,5/31/2023,5,103.5,117,14700,No,Discharged
+PAK-10031,PIMS Islamabad,Islamabad,49,Female,O+,Dengue Fever,Cardiac,11/28/2022,10,100.1,150,18900,Yes,Discharged
+PAK-10070,Jinnah Hospital Lahore,Karachi,66,Male,O-,Hepatitis B,Cardiac,3/6/2022,23,102.8,174,21700,Yes,Admitted
+PAK-10182,PKLI LAHORE,Lahore,69,Male,B-,Typhoid,General,2/16/2022,19,106,108,37900,No,Discharged
+PAK-10587,Jinnah Hospital Lahore,Quetta,71,Female,,KIDNEY STONE,Pediatric,3/9/2023,13,96.5,167,54000,No,Referred
+PAK-10045,LIAQUAT NATIONAL KARACHI,Peshawar,40,Male,AB-,Appendicitis,Cardiac,7/30/2023,7,101.4,132,27900,No,Deceased
+PAK-10571,PKLI Lahore,Karachi,4,Male,O+,DIABETES TYPE 2,Orthopedic,10/11/2021,4,105.4,154,12800,No,Admitted
+PAK-10071,Hayatabad Medical Peshawar,Rawalpindi,35,Female,AB-,Tuberculosis,Maternity,7/1/2022,14,94.4,141,12000,Yes,Discharged
+PAK-10452,PKLI LAHORE,Rawalpindi,16,Female,O+,Dengue Fever,General,2/28/2023,4,98.8,121,44800,No,Admitted
+PAK-10378,Shaukat Khanum Lahore,Faisalabad,32,Male,AB+,ASTHMA,General,8/18/2021,15,101.8,171,15200,No,Discharged
+PAK-10165,Jinnah Hospital Lahore,Peshawar,17,Female,AB+,Appendicitis,General,3/7/2024,9,103.3,99,,No,Deceased
+PAK-10548,aga khan hospital karachi,Karachi,31,Female,AB+,Fracture,Cardiac,10/31/2023,4,99.9,118,64400,No,Discharged
+PAK-10611,PKLI LAHORE,LAHORE,60,Female,B+,Malaria,Orthopedic,12/5/2021,25,100,114,13100,Partial,Discharged
+PAK-10166,Jinnah Hospital Lahore,Rawalpindi,26,Male,A+,heart disease,Surgical,6/11/2021,17,98.5,144,230400,Yes,Discharged
+PAK-10205,Shaukat Khanum Lahore,Lahore,150,Female,AB-,Fracture,Orthopedic,3/6/2021,23,102.4,,34400,No,Discharged
+PAK-10529,services hospital lahore,Islamabad,68,Female,O-,Pneumonia,Maternity,8/7/2021,6,96.5,161,19800,Yes,Discharged
+PAK-10532,HAYATABAD MEDICAL PESHAWAR,Multan,12,Female,B-,Fracture,Surgical,12/27/2021,5,101,110,85900,Yes,Discharged
+PAK-10659,Liaquat National Karachi,Multan,44,Male,A-,Jaundice,Emergency,8/11/2023,26,99.7,165,2500000,No,Admitted
+PAK-10214,Civil Hospital Karachi,Islamabad,65,Male,O+,Malaria,Maternity,9/28/2021,24,98.4,132,20200,No,Deceased
+PAK-10621,civil hospital karachi,Islamabad,82,Female,A-,Tuberculosis,ICU,6/21/2021,10,99.5,96,25000,Yes,Discharged
+PAK-10617,Civil Hospital Karachi,Karachi,26,Male,B+,Hypertension,Orthopedic,3/18/2023,15,98.7,172,66200,Partial,Admitted
+PAK-10410,pims islamabad,Multan,,Male,O+,HYPERTENSION,Orthopedic,5/24/2022,13,100.7,110,8300,No,Discharged
+PAK-10007,Shaukat Khanum Lahore,Karachi,59,Female,AB-,KIDNEY STONE,Maternity,7/29/2021,13,99.1,156,51200,Yes,Discharged
+PAK-10630,Aga Khan Hospital Karachi,Karachi,17,Female,A+,Appendicitis,Cardiac,3/10/2022,20,99.2,171,73700,,Admitted
+PAK-10303,Jinnah Hospital Lahore,LAHORE,84,Female,O-,Diabetes Type 2,Maternity,6/22/2024,20,102.7,146,16000,,Admitted
+PAK-10159,Jinnah Hospital Lahore,Karachi,65,Male,B+,Heart Disease,Pediatric,8/18/2021,6,100.5,137,14700,No,Under Treatment
+PAK-10193,Shaukat Khanum Lahore,Lahore,13,Male,B+,Pneumonia,Pediatric,11/24/2022,22,97.6,152,10400,No,Discharged
+PAK-10133,Services Hospital Lahore,Quetta,89,Female,O-,Appendicitis,General,11/28/2022,25,102.6,,78100,No,Discharged
+PAK-10290,AGA KHAN HOSPITAL KARACHI,Lahore,7,Male,AB-,Tuberculosis,Orthopedic,6/14/2021,17,100.9,121,16200,Partial,Discharged
+PAK-10042,Aga Khan Hospital Karachi,Multan,12,Male,B+,pneumonia,ICU,5/21/2024,21,101.6,133,27200,Yes,Admitted
+PAK-10109,PIMS Islamabad,Peshawar,79,Female,O+,Malaria,Pediatric,1/12/2023,20,102.1,101,54100,No,Admitted
+PAK-10514,Hayatabad Medical Peshawar,Multan,14,Male,AB-,Malaria,Emergency,4/5/2021,7,101.4,110,6200,No,Admitted
+PAK-10057,Aga Khan Hospital Karachi,Islamabad,69,Male,B+,Jaundice,Orthopedic,4/4/2021,22,100.7,113,42000,No,Under Treatment
+PAK-10376,Civil Hospital Karachi,Peshawar,68,Female,A+,Pneumonia,ICU,2/23/2024,21,101.4,145,42500,No,Admitted
+PAK-10345,aga khan hospital karachi,Islamabad,21,Female,B-,Hepatitis B,Orthopedic,9/6/2022,24,99,113,170400,,Discharged
+PAK-10527,PIMS Islamabad,Multan,25,Female,B-,Kidney Stone,Cardiac,10/30/2021,3,101.2,93,22900,No,Discharged
+PAK-10025,PIMS Islamabad,Rawalpindi,37,Male,A+,covid-19,Cardiac,7/9/2023,23,98.9,,16300,Yes,Admitted
+PAK-10235,Hayatabad Medical Peshawar,Islamabad,26,Male,AB+,Dengue Fever,Maternity,5/25/2022,24,100.2,156,62900,Yes,Deceased
+PAK-10690,Jinnah Hospital Lahore,Rawalpindi,38,Female,B-,Appendicitis,Pediatric,11/3/2023,11,102.4,114,40600,No,Referred
+PAK-10245,Jinnah Hospital Lahore,Faisalabad,48,Male,A-,Hypertension,Pediatric,5/27/2022,24,101.4,159,,Yes,Admitted
+PAK-10295,Liaquat National Karachi,Islamabad,71,Male,B-,Hepatitis B,ICU,4/27/2022,1,101.5,90,13900,Partial,Under Treatment
+PAK-10666,PIMS Islamabad,Lahore,43,Female,AB+,COVID-19,Pediatric,12/2/2021,15,99.5,,32000,No,Under Treatment
+PAK-10111,Jinnah Hospital Lahore,Rawalpindi,61,Female,O+,Malaria,Cardiac,10/11/2021,12,103,94,76400,Yes,Discharged
+PAK-10083,Jinnah Hospital Lahore,Rawalpindi,10,Female,A-,Hypertension,Maternity,10/27/2022,25,96.6,108,15900,Yes,Deceased
+PAK-10052,Aga Khan Hospital Karachi,Islamabad,44,Female,B-,Heart Disease,Orthopedic,6/20/2024,17,105.2,156,144800,No,Discharged
+PAK-10673,PKLI Lahore,Rawalpindi,20,Male,A-,asthma,ICU,2/8/2023,7,99.8,90,40600,Partial,Referred
+PAK-10572,Jinnah Hospital Lahore,Lahore,4,Male,A-,Hepatitis B,Cardiac,11/5/2021,17,100.9,107,49700,,Discharged
+PAK-10551,Services Hospital Lahore,Multan,34,Female,O-,Pneumonia,General,7/3/2023,6,101.4,117,38000,No,Discharged
+PAK-10276,PKLI Lahore,Faisalabad,29,Female,O-,Diabetes Type 2,Pediatric,4/30/2021,4,100.1,116,26200,No,Discharged
+PAK-10249,Services Hospital Lahore,Rawalpindi,15,Female,AB-,hypertension,General,7/20/2021,26,98.6,106,12300,No,Referred
+PAK-10232,liaquat national karachi,Islamabad,9,Female,B+,ASTHMA,Emergency,4/5/2023,9,101.1,,35100,Yes,Discharged
+PAK-10255,JINNAH HOSPITAL LAHORE,Rawalpindi,43,Male,AB+,Typhoid,Maternity,12/7/2021,24,103.2,135,41100,Yes,Discharged
+PAK-10019,Aga Khan Hospital Karachi,Peshawar,85,Male,A+,Asthma,Pediatric,2/24/2021,2,101.9,92,12200,Yes,Admitted
+PAK-10213,Civil Hospital Karachi,Faisalabad,,Female,A-,Hypertension,Maternity,1/10/2024,8,101.5,131,21200,Partial,Discharged
+PAK-10356,Jinnah Hospital Lahore,Peshawar,73,Female,A+,Asthma,Surgical,3/8/2022,8,101.1,179,,Yes,Discharged
+PAK-10449,Jinnah Hospital Lahore,Faisalabad,72,Male,O+,Diabetes Type 2,Maternity,5/26/2024,27,100.7,152,134500,Yes,Admitted
+PAK-10553,Jinnah Hospital Lahore,Lahore,89,Female,A-,COVID-19,Surgical,8/31/2023,18,98,133,19200,No,Admitted
+PAK-10062,Hayatabad Medical Peshawar,Lahore,,Female,O+,Asthma,Maternity,7/26/2021,13,99.7,147,26100,No,Admitted
+PAK-10508,Services Hospital Lahore,Multan,25,Male,AB+,Hepatitis B,ICU,4/27/2022,22,102,167,Rs.26000.0,No,Admitted
+PAK-10396,JINNAH HOSPITAL LAHORE,quetta,32,Male,AB-,Pneumonia,Pediatric,7/30/2021,21,98.2,163,34700,,Discharged
+PAK-10030,Civil Hospital Karachi,Karachi,50,Female,AB+,COVID-19,ICU,5/16/2023,3,99.5,91,35300,No,Under Treatment
+PAK-10523,PKLI Lahore,faisalabad,13,Female,O+,Fracture,Cardiac,2/26/2023,10,99.7,139,34600,Partial,Admitted
+PAK-10183,Jinnah Hospital Lahore,Multan,62,Male,A+,typhoid,Emergency,10/1/2022,24,100.5,156,27700,No,Under Treatment
+PAK-10260,PKLI Lahore,Faisalabad,15,Male,B+,MALARIA,Cardiac,4/2/2023,16,101.4,98,54000,No,Admitted
+PAK-10484,Hayatabad Medical Peshawar,Lahore,45,Male,AB-,Pneumonia,ICU,9/9/2022,1,98.4,175,13000,Yes,Discharged
+PAK-10457,PIMS Islamabad,Faisalabad,23,Female,AB+,COVID-19,ICU,6/13/2023,13,97.9,98,25300,,Under Treatment
+PAK-10212,Jinnah Hospital Lahore,Islamabad,85,Female,AB+,Dengue Fever,General,3/15/2022,14,97.6,149,16900,Yes,Discharged
+PAK-10544,Civil Hospital Karachi,Karachi,2,Male,O+,Pneumonia,Maternity,5/4/2024,26,100.7,155,16100,Partial,Discharged
+PAK-10558,PIMS Islamabad,Faisalabad,56,Female,O+,Tuberculosis,Orthopedic,12/4/2023,5,100.8,177,18500,No,Admitted
+PAK-10370,civil hospital karachi,Islamabad,41,Female,O+,kidney stone,ICU,9/25/2021,22,98.8,147,62700,No,Admitted
+PAK-10685,Liaquat National Karachi,Islamabad,5,Female,B+,Asthma,Emergency,12/13/2022,14,99.3,160,24300,Yes,Deceased
+PAK-10343,Liaquat National Karachi,islamabad,49,Male,B+,Kidney Stone,Cardiac,1/17/2021,23,103.7,130,69900,,Discharged
+PAK-10648,Liaquat National Karachi,Rawalpindi,72,Male,A+,Diabetes Type 2,Emergency,5/22/2022,18,105.8,,,No,Under Treatment
+PAK-10177,Liaquat National Karachi,Multan,31,Male,A-,TYPHOID,Emergency,12/17/2023,7,102.1,92,,No,Admitted
+PAK-10543,Liaquat National Karachi,Lahore,43,Female,B+,Heart Disease,ICU,2/19/2024,24,100.8,101,23800,No,Admitted
+PAK-10486,Aga Khan Hospital Karachi,multan,30,Female,A+,COVID-19,Surgical,1/28/2024,4,102.1,127,54500,,Under Treatment
+PAK-10251,Liaquat National Karachi,Lahore,48,Male,B-,Pneumonia,Pediatric,1/13/2024,8,99.9,92,74200,No,Discharged
+PAK-10328,Jinnah Hospital Lahore,Karachi,68,Female,A+,Typhoid,Cardiac,3/13/2022,3,96.7,135,116300,Yes,Admitted
+PAK-10668,PIMS Islamabad,Faisalabad,,Male,B+,Hypertension,Emergency,8/10/2021,10,99.5,161,75100,No,Discharged
+PAK-10164,Civil Hospital Karachi,Karachi,82,Male,A+,Fracture,Orthopedic,5/9/2022,8,96.3,174,15100,No,Admitted
+PAK-10300,aga khan hospital karachi,Karachi,42,Male,B-,Pneumonia,Cardiac,3/31/2024,26,96.8,101,19100,No,Admitted
+PAK-10625,Shaukat Khanum Lahore,Karachi,42,Male,AB-,Typhoid,Maternity,1/8/2022,23,98.5,123,14300,No,Admitted
+PAK-10458,Hayatabad Medical Peshawar,Quetta,66,Male,AB+,Pneumonia,Cardiac,1/4/2021,7,99.8,153,39700,No,Discharged
+PAK-10362,Civil Hospital Karachi,Faisalabad,64,Male,O-,Jaundice,General,5/30/2022,12,101.9,138,17300,No,Discharged
+PAK-10291,HAYATABAD MEDICAL PESHAWAR,Rawalpindi,74,Male,AB+,Hepatitis B,Maternity,1/16/2022,20,103.6,115,41900,No,Admitted
+PAK-10311,Liaquat National Karachi,Lahore,,Female,A+,Heart Disease,Orthopedic,2/23/2022,5,100,143,Rs.10700.0,No,Admitted
+PAK-10427,Hayatabad Medical Peshawar,Lahore,30,Female,O+,Pneumonia,Cardiac,11/4/2022,27,101,173,22000,Yes,Admitted
+PAK-10105,Civil Hospital Karachi,karachi,49,Female,A+,Pneumonia,Pediatric,4/12/2024,19,101.1,105,33200,No,Admitted
+PAK-10115,Shaukat Khanum Lahore,Karachi,73,Male,A+,Hepatitis B,ICU,4/7/2021,1,100,94,14200,No,Deceased
+PAK-10640,PIMS Islamabad,Peshawar,60,Female,O-,Pneumonia,Maternity,2/9/2021,13,97.1,169,22900,Partial,Admitted
+PAK-10651,PKLI Lahore,Karachi,17,Female,B-,Asthma,Cardiac,6/26/2024,11,103.7,172,27600,Partial,Under Treatment
+PAK-10639,Shaukat Khanum Lahore,Peshawar,58,Female,O+,Jaundice,Emergency,8/22/2023,22,100.7,,73400,Partial,Discharged
+PAK-10354,Hayatabad Medical Peshawar,Karachi,11,Female,AB-,Tuberculosis,Emergency,8/1/2022,2,102.8,144,27700,Yes,Admitted
+PAK-10093,Shaukat Khanum Lahore,FAISALABAD,8,Male,AB-,Jaundice,Maternity,10/7/2022,18,97.4,116,25700,Yes,Discharged
+PAK-10008,Liaquat National Karachi,Lahore,3,Male,B+,Pneumonia,Emergency,1/22/2024,27,102.4,119,56000,No,Admitted
+PAK-10090,Aga Khan Hospital Karachi,Faisalabad,1,Female,A-,Hepatitis B,General,5/16/2021,17,102.4,116,71900,No,Admitted
+PAK-10579,Jinnah Hospital Lahore,Islamabad,50,Male,A+,Pneumonia,Maternity,4/15/2023,3,99.7,174,49800,No,Discharged
+PAK-10399,Aga Khan Hospital Karachi,Islamabad,72,Female,A+,Appendicitis,Surgical,4/13/2023,22,102,100,15700,No,Discharged
+PAK-10534,Jinnah Hospital Lahore,Faisalabad,13,Male,B-,COVID-19,Pediatric,8/10/2023,29,102.5,107,35500,No,Discharged
+PAK-10654,PIMS Islamabad,faisalabad,88,Female,O+,tuberculosis,Cardiac,9/16/2021,19,102.8,92,75600,No,Deceased
+PAK-10381,Civil Hospital Karachi,Peshawar,36,Male,,Pneumonia,ICU,1/23/2024,20,100.3,122,27900,No,Referred
+PAK-10261,pkli lahore,rawalpindi,25,Male,B-,Fracture,Surgical,5/1/2021,17,101.6,174,Rs.21200.0,No,Admitted
+PAK-10141,Jinnah Hospital Lahore,Karachi,23,Female,O-,Appendicitis,Maternity,10/23/2023,8,100.5,130,5600,No,Discharged
+PAK-10029,PIMS Islamabad,Rawalpindi,24,Male,,Hypertension,Emergency,11/23/2021,14,101.1,98,53600,Yes,Discharged
+PAK-10044,Shaukat Khanum Lahore,LAHORE,18,Female,AB+,Diabetes Type 2,ICU,3/30/2021,20,103,145,11800,,Referred
+PAK-10043,Services Hospital Lahore,Lahore,3,Female,A-,Hypertension,Pediatric,6/26/2022,26,101.2,163,18600,Partial,Referred
+PAK-10074,Liaquat National Karachi,rawalpindi,40,Female,A+,Pneumonia,ICU,12/17/2021,27,97.7,111,20000,No,Admitted
+PAK-10168,Aga Khan Hospital Karachi,Faisalabad,47,Female,O+,heart disease,ICU,9/23/2023,19,100.4,168,11500,Yes,Under Treatment
+PAK-10450,Services Hospital Lahore,Quetta,32,Male,B+,Pneumonia,General,11/14/2023,18,99.4,114,30000,Partial,Discharged
+PAK-10623,Aga Khan Hospital Karachi,Rawalpindi,,Male,A+,Kidney Stone,Orthopedic,10/5/2021,14,98.8,150,16200,No,Deceased
+PAK-10067,Liaquat National Karachi,Lahore,17,Female,O+,Kidney Stone,ICU,11/30/2021,18,105,100,15100,Yes,Admitted
+PAK-10012,Liaquat National Karachi,Multan,61,Female,O-,Heart Disease,Cardiac,3/7/2021,28,101.5,179,33400,No,Admitted
+PAK-10555,Jinnah Hospital Lahore,Quetta,11,Male,B-,Hepatitis B,Maternity,6/15/2022,8,99.9,170,71400,No,Admitted
+PAK-10580,Aga Khan Hospital Karachi,Faisalabad,63,Male,B+,Malaria,Orthopedic,11/9/2022,22,100.8,123,14000,No,Discharged
+PAK-10179,Services Hospital Lahore,Lahore,14,Male,A+,COVID-19,Surgical,5/17/2023,27,99.1,159,94700,No,Admitted
+PAK-10363,Jinnah Hospital Lahore,Lahore,35,Female,O+,MALARIA,ICU,4/15/2021,7,101.1,122,Rs.6700.0,Yes,Referred
+PAK-10655,Hayatabad Medical Peshawar,Lahore,45,Male,B+,Tuberculosis,Cardiac,8/28/2023,18,99.9,171,,Yes,Admitted
+PAK-10423,Liaquat National Karachi,Faisalabad,47,Female,A-,Fracture,Pediatric,4/2/2022,29,103.6,,42100,Yes,Discharged
+PAK-10443,Shaukat Khanum Lahore,Karachi,30,Female,A-,Asthma,Maternity,8/11/2021,15,96.4,118,19600,Partial,Deceased
+PAK-10530,HAYATABAD MEDICAL PESHAWAR,Multan,45,Female,A+,Diabetes Type 2,Maternity,5/21/2023,18,98,98,40800,No,Deceased
+PAK-10178,Civil Hospital Karachi,Faisalabad,80,Male,AB-,Asthma,Cardiac,5/27/2024,28,100.8,148,31000,No,Admitted
+PAK-10496,Shaukat Khanum Lahore,Quetta,73,Male,O-,Fracture,Cardiac,6/24/2023,8,99,107,24700,No,Under Treatment
+PAK-10516,Hayatabad Medical Peshawar,Islamabad,80,Male,O+,Diabetes Type 2,ICU,9/1/2023,2,99.9,132,5700,No,Admitted
+PAK-10084,Civil Hospital Karachi,quetta,67,Male,A-,COVID-19,Emergency,4/25/2021,29,98.6,94,35400,Yes,Admitted
+PAK-10219,PIMS Islamabad,KARACHI,19,Female,AB-,Dengue Fever,Cardiac,8/27/2023,18,98.2,121,19500,No,Admitted
+PAK-10494,services hospital lahore,KARACHI,52,Male,A-,Hepatitis B,Surgical,10/22/2022,15,98.9,118,23400,Yes,Discharged
+PAK-10372,Hayatabad Medical Peshawar,Faisalabad,24,Female,AB+,Typhoid,Surgical,11/27/2021,26,95.8,109,29900,No,Discharged
+PAK-10320,Aga Khan Hospital Karachi,Karachi,88,Male,A-,Appendicitis,ICU,5/29/2021,27,99.9,177,18000,Yes,Admitted
+PAK-10480,Jinnah Hospital Lahore,Multan,49,Female,B-,DIABETES TYPE 2,ICU,2/16/2023,17,96.1,91,16700,Yes,Discharged
+PAK-10080,LIAQUAT NATIONAL KARACHI,Lahore,47,Male,,Asthma,ICU,7/7/2022,5,101.7,162,9800,,Discharged
+PAK-10024,Jinnah Hospital Lahore,Rawalpindi,20,Male,B+,Kidney Stone,Emergency,3/28/2022,8,100.3,102,56500,No,Discharged
+PAK-10016,Aga Khan Hospital Karachi,Karachi,7,Male,A-,Hypertension,Pediatric,4/22/2022,3,99.7,115,53800,Partial,Admitted
+PAK-10400,PIMS Islamabad,Peshawar,50,Male,AB+,Heart Disease,General,6/25/2024,6,101.2,105,29400,No,Discharged
+PAK-10282,Civil Hospital Karachi,MULTAN,30,Female,B-,Diabetes Type 2,Orthopedic,4/13/2021,22,96.1,134,20600,Partial,Deceased
+PAK-10552,PKLI Lahore,Karachi,10,Male,A-,Asthma,ICU,11/22/2021,10,101.7,103,,Partial,Admitted
+PAK-10627,AGA KHAN HOSPITAL KARACHI,Karachi,42,Male,B+,Hepatitis B,Emergency,6/17/2022,25,100.6,147,20800,No,Discharged
+PAK-10287,Shaukat Khanum Lahore,Karachi,4,Male,A-,Typhoid,Orthopedic,11/19/2021,21,99.3,109,4700,Partial,Discharged
+PAK-10330,PKLI Lahore,Lahore,24,Male,O-,HEPATITIS B,Orthopedic,6/28/2022,18,100.4,136,28200,No,Referred
+PAK-10383,PKLI Lahore,Peshawar,73,Female,O-,hypertension,Surgical,1/27/2023,12,102.2,162,69400,,Admitted
+PAK-10559,pkli lahore,Lahore,79,Female,B+,Diabetes Type 2,Surgical,9/20/2023,10,100.2,95,65600,No,Discharged
+PAK-10138,Liaquat National Karachi,quetta,56,Female,O+,Typhoid,Maternity,7/19/2023,12,102,177,3900,No,Deceased
+PAK-10481,PKLI LAHORE,Islamabad,42,Male,B-,Tuberculosis,Orthopedic,12/23/2021,7,99.3,173,31100,No,Admitted
+PAK-10335,Civil Hospital Karachi,Islamabad,89,Male,AB+,Appendicitis,Surgical,1/27/2023,8,99.5,166,12700,No,Discharged
+PAK-10034,Hayatabad Medical Peshawar,Lahore,66,Male,AB-,COVID-19,Cardiac,3/17/2022,12,102,153,29400,,Discharged
+PAK-10487,Civil Hospital Karachi,Islamabad,88,Male,A-,Heart Disease,Orthopedic,1/1/2021,13,100.7,112,19100,,Deceased
+PAK-10638,Liaquat National Karachi,Faisalabad,10,Male,B-,Heart Disease,General,6/17/2021,21,97.5,128,,No,Referred
+PAK-10353,Shaukat Khanum Lahore,Karachi,32,Male,B-,Appendicitis,General,7/12/2022,16,101.3,149,14600,Partial,Discharged
+PAK-10010,Services Hospital Lahore,Lahore,74,Female,O-,Diabetes Type 2,Pediatric,4/24/2024,6,98.2,118,23700,Yes,Deceased
+PAK-10250,Liaquat National Karachi,Karachi,43,Male,AB+,Diabetes Type 2,Maternity,4/14/2021,20,98.8,129,7400,No,Discharged
+PAK-10023,hayatabad medical peshawar,Rawalpindi,24,Female,AB+,Pneumonia,General,5/10/2023,6,105.8,140,6500,No,Discharged
+PAK-10222,Liaquat National Karachi,Islamabad,33,Male,AB+,Hypertension,General,7/13/2021,1,97.1,113,12800,No,Under Treatment
+PAK-10512,Jinnah Hospital Lahore,peshawar,33,Female,O-,Typhoid,Orthopedic,10/29/2021,11,102.4,128,84100,Partial,Admitted
+PAK-10697,aga khan hospital karachi,Multan,50,Female,AB+,Kidney Stone,Emergency,1/12/2023,8,99.8,111,15300,Partial,Admitted
+PAK-10351,Civil Hospital Karachi,Rawalpindi,35,Male,B-,Pneumonia,Maternity,2/8/2024,9,98.5,179,14500,Yes,Discharged
+PAK-10595,Civil Hospital Karachi,Multan,21,Male,O+,dengue fever,Cardiac,9/4/2022,14,97.8,138,45200,No,Discharged
+PAK-10204,Aga Khan Hospital Karachi,Rawalpindi,23,Male,O-,Dengue Fever,Orthopedic,5/19/2021,4,100.4,113,15100,Yes,Admitted
+PAK-10418,Hayatabad Medical Peshawar,Islamabad,58,Male,B-,Tuberculosis,Orthopedic,2/13/2022,3,103,116,17100,Yes,Discharged
+PAK-10094,Liaquat National Karachi,peshawar,43,Female,AB+,JAUNDICE,Maternity,3/12/2022,29,101,151,112600,No,Discharged
+PAK-10693,Liaquat National Karachi,rawalpindi,25,Female,B+,Jaundice,Pediatric,5/11/2023,17,101.9,144,29900,No,Discharged
+PAK-10278,Hayatabad Medical Peshawar,Karachi,35,Male,O-,Hypertension,Maternity,1/16/2024,16,99.4,110,19700,Partial,Under Treatment
+PAK-10394,Shaukat Khanum Lahore,Islamabad,44,Male,B+,Dengue Fever,Cardiac,3/7/2022,22,101.5,157,6700,No,Discharged
+PAK-10185,PKLI Lahore,Karachi,64,Male,O+,Kidney Stone,Cardiac,2/4/2023,28,101.2,162,15400,No,Discharged
+PAK-10600,Hayatabad Medical Peshawar,Karachi,5,Male,AB+,Hepatitis B,Orthopedic,5/20/2024,9,103.1,115,56000,Yes,Admitted
+PAK-10307,SHAUKAT KHANUM LAHORE,multan,1,Female,B-,Appendicitis,ICU,3/3/2024,21,99.8,111,28200,No,Deceased
+PAK-10154,Jinnah Hospital Lahore,MULTAN,29,Female,A-,Typhoid,Surgical,1/2/2021,23,99.9,101,39200,No,Admitted
+PAK-10076,Liaquat National Karachi,karachi,56,Male,A-,Hypertension,Emergency,5/17/2022,15,99.5,148,37200,,Admitted
+PAK-10429,Civil Hospital Karachi,Islamabad,16,Male,AB-,Malaria,Emergency,5/23/2021,17,98.6,144,72100,No,Discharged
+PAK-10069,Hayatabad Medical Peshawar,faisalabad,28,Male,B+,Hepatitis B,Emergency,12/29/2022,13,102.6,107,17700,No,Under Treatment
+PAK-10433,Jinnah Hospital Lahore,Lahore,12,Female,,COVID-19,ICU,3/30/2023,28,98.7,136,,No,Discharged
+PAK-10189,PIMS Islamabad,quetta,33,Male,A+,Diabetes Type 2,Orthopedic,9/5/2021,5,98.6,100,34800,,Discharged
+PAK-10272,PIMS Islamabad,Lahore,78,Male,A-,Dengue Fever,Emergency,11/14/2021,18,101.9,120,6700,Yes,Discharged
+PAK-10237,hayatabad medical peshawar,Lahore,48,Female,O-,Hypertension,Cardiac,1/25/2022,24,103.8,107,80800,Yes,Discharged
+PAK-10089,Liaquat National Karachi,Faisalabad,76,Male,B-,Heart Disease,Orthopedic,7/3/2022,18,96.9,176,25600,Partial,Discharged
+PAK-10603,Services Hospital Lahore,Karachi,,Male,AB-,Jaundice,Cardiac,3/26/2022,10,97.5,96,66900,Partial,Referred
+PAK-10118,Shaukat Khanum Lahore,Lahore,26,Male,AB+,Kidney Stone,ICU,11/24/2021,9,102.3,102,25400,No,Referred
+PAK-10126,Shaukat Khanum Lahore,Multan,51,Male,B-,Kidney Stone,Cardiac,12/20/2023,16,87.2,166,,Yes,Discharged
+PAK-10584,Civil Hospital Karachi,MULTAN,27,Female,B-,Asthma,Surgical,5/8/2021,16,99.6,131,8600,No,Discharged
+PAK-10239,Aga Khan Hospital Karachi,Lahore,70,Male,O+,Malaria,Maternity,7/8/2023,14,98.3,127,5500,Partial,Admitted
+PAK-10001,Shaukat Khanum Lahore,Peshawar,70,Female,O-,Dengue Fever,Emergency,8/17/2021,22,100.7,158,8500,No,Discharged
+PAK-10103,pims islamabad,Rawalpindi,76,Female,O+,COVID-19,Emergency,1/9/2024,17,101.6,172,71200,Yes,Under Treatment
+PAK-10297,PKLI Lahore,Quetta,56,Male,B-,Tuberculosis,Orthopedic,9/3/2021,6,99,94,22400,No,Referred
+PAK-10498,Services Hospital Lahore,Karachi,21,Male,O-,DENGUE FEVER,Maternity,3/14/2022,16,100.2,139,49300,Partial,Discharged
+PAK-10358,Aga Khan Hospital Karachi,Islamabad,77,Male,B-,Pneumonia,Cardiac,2/21/2022,19,102.8,118,18700,No,Admitted
+PAK-10279,Civil Hospital Karachi,Multan,8,Female,AB-,Tuberculosis,Maternity,5/5/2021,23,103.7,147,21200,No,Admitted
+PAK-10117,services hospital lahore,Islamabad,20,Male,O-,KIDNEY STONE,Pediatric,11/10/2021,20,102.4,168,17100,Yes,Admitted
+PAK-10229,LIAQUAT NATIONAL KARACHI,Rawalpindi,74,Male,A+,Pneumonia,General,4/21/2021,6,102.7,156,13600,No,Deceased
+PAK-10324,PIMS Islamabad,Multan,80,Female,O-,Pneumonia,ICU,2/28/2024,3,100.5,,19200,,Under Treatment
+PAK-10336,Civil Hospital Karachi,Faisalabad,18,Male,O-,Hypertension,ICU,8/7/2022,23,101.3,149,31900,Partial,Admitted
+PAK-10275,Civil Hospital Karachi,PESHAWAR,27,Female,A+,Jaundice,Emergency,3/22/2022,23,100.5,91,Rs.21100.0,No,Referred
+PAK-10597,pims islamabad,Quetta,87,Male,AB-,Heart Disease,Orthopedic,5/9/2023,18,97.9,161,55700,Yes,Referred
+PAK-10145,LIAQUAT NATIONAL KARACHI,Islamabad,23,Male,O+,Appendicitis,Surgical,9/4/2022,7,98.9,151,67400,No,Under Treatment
+PAK-10425,Hayatabad Medical Peshawar,Lahore,80,Male,A+,Diabetes Type 2,Emergency,1/31/2022,22,99.5,127,48900,No,Referred
+PAK-10592,civil hospital karachi,lahore,62,Male,O+,COVID-19,General,9/4/2023,28,101.9,161,66000,Partial,Referred
+PAK-10644,Liaquat National Karachi,Peshawar,34,Male,AB+,Typhoid,General,4/5/2022,2,104,157,35300,No,Discharged
+PAK-10519,PKLI Lahore,Lahore,3,Female,A+,Malaria,General,7/22/2023,24,101.2,137,38600,No,Referred
+PAK-10269,Civil Hospital Karachi,Rawalpindi,86,Female,O+,Jaundice,Pediatric,5/17/2023,15,98.5,135,9000,Partial,Admitted
+PAK-10583,Jinnah Hospital Lahore,Islamabad,7,Female,B+,Asthma,Cardiac,5/2/2023,22,98.2,124,50500,No,Deceased
+PAK-10568,SHAUKAT KHANUM LAHORE,Islamabad,7,Female,A-,kidney stone,Orthopedic,10/17/2022,11,102.8,164,47200,No,Discharged
+PAK-10047,Jinnah Hospital Lahore,Multan,15,Male,A+,Hepatitis B,Pediatric,9/13/2021,4,99.4,123,20100,No,Admitted
+PAK-10262,PIMS ISLAMABAD,Multan,36,Female,A+,Asthma,Orthopedic,12/4/2021,15,96.9,100,28400,No,Discharged
+PAK-10196,JINNAH HOSPITAL LAHORE,Faisalabad,31,Female,B-,Jaundice,Maternity,2/9/2024,11,99.3,101,5000,Yes,Discharged
+PAK-10296,Aga Khan Hospital Karachi,Islamabad,63,Female,O-,Hypertension,Orthopedic,4/7/2023,20,101,140,16400,No,Discharged
+PAK-10596,civil hospital karachi,faisalabad,10,Male,B-,Appendicitis,General,3/10/2023,1,102.3,119,,No,Discharged
+PAK-10108,Hayatabad Medical Peshawar,ISLAMABAD,28,Male,O-,Tuberculosis,Pediatric,3/29/2023,9,102.5,115,47200,Partial,Discharged
+PAK-10482,Shaukat Khanum Lahore,rawalpindi,38,Male,A+,COVID-19,Surgical,6/14/2024,11,96.3,104,14700,Yes,Admitted
+PAK-10533,Jinnah Hospital Lahore,Karachi,32,Female,B+,Malaria,Cardiac,11/27/2023,21,106.4,147,28200,No,Under Treatment
+PAK-10339,PKLI Lahore,Faisalabad,74,Female,O-,Dengue Fever,ICU,1/18/2024,5,101.6,152,134400,Yes,Admitted
+PAK-10101,PIMS Islamabad,Lahore,37,Female,O+,Jaundice,Surgical,5/21/2022,16,100.5,,25700,,Referred
+PAK-10368,PIMS Islamabad,Quetta,42,Female,A+,covid-19,Pediatric,1/8/2021,29,98.9,146,12100,Yes,Referred
+PAK-10637,Jinnah Hospital Lahore,Karachi,29,Male,B-,hepatitis b,Orthopedic,6/1/2022,21,101.2,108,12700,Yes,Discharged
+PAK-10350,Shaukat Khanum Lahore,lahore,15,Male,A+,Tuberculosis,Cardiac,8/8/2021,5,103.4,93,52100,No,Discharged
+PAK-10180,Aga Khan Hospital Karachi,Karachi,53,Male,O-,Heart Disease,Maternity,3/10/2022,17,97.2,137,7400,Partial,Admitted
+PAK-10305,PKLI Lahore,Peshawar,7,Female,B-,KIDNEY STONE,General,5/9/2023,14,100.3,165,43800,Yes,Discharged
+PAK-10430,hayatabad medical peshawar,Rawalpindi,12,Female,B-,COVID-19,Maternity,7/26/2022,21,100.9,90,7200,Yes,Discharged
+PAK-10684,PKLI Lahore,Quetta,58,Male,AB-,jaundice,ICU,3/26/2021,23,100,124,58800,No,Discharged
+PAK-10150,Services Hospital Lahore,Rawalpindi,8,Female,B-,COVID-19,Orthopedic,2/5/2023,29,99.1,111,14600,No,Discharged
+PAK-10125,Services Hospital Lahore,Lahore,33,Male,A-,Fracture,ICU,8/17/2023,2,96.9,105,5400,No,Admitted
+PAK-10585,Shaukat Khanum Lahore,Karachi,86,Male,,Fracture,Emergency,2/28/2022,23,98.1,117,,,Under Treatment
+PAK-10618,Hayatabad Medical Peshawar,Faisalabad,68,Male,B-,Hepatitis B,Orthopedic,4/27/2024,25,101.6,100,,Partial,Discharged
+PAK-10186,PIMS Islamabad,Karachi,70,Female,B-,COVID-19,Cardiac,6/17/2023,2,102,165,68200,Yes,Discharged
+PAK-10447,Hayatabad Medical Peshawar,Karachi,,Male,A-,APPENDICITIS,Pediatric,10/5/2022,6,99.2,,6300,Yes,Admitted
+PAK-10413,Shaukat Khanum Lahore,Quetta,87,Female,A-,Pneumonia,General,8/10/2021,17,103.4,106,11800,No,Discharged
+PAK-10205,Shaukat Khanum Lahore,Lahore,150,Female,AB-,Fracture,Orthopedic,3/6/2021,23,102.4,,34400,No,Discharged
+PAK-10361,Liaquat National Karachi,Lahore,2,Male,,Diabetes Type 2,ICU,9/28/2023,12,102.5,168,30700,No,Referred
+PAK-10322,Shaukat Khanum Lahore,Islamabad,72,Male,O+,diabetes type 2,Pediatric,7/28/2023,21,99.4,,40200,No,Referred
+PAK-10657,Shaukat Khanum Lahore,Multan,69,Male,B-,Jaundice,Emergency,3/1/2024,21,97.5,137,94500,No,Discharged
+PAK-10143,Liaquat National Karachi,Rawalpindi,,Female,AB+,Pneumonia,Emergency,11/6/2023,19,102,163,5500,Yes,Discharged
+PAK-10142,PIMS Islamabad,Islamabad,44,Male,O-,Hypertension,Orthopedic,1/1/2022,10,100.5,161,19600,No,Admitted
+PAK-10412,PIMS Islamabad,Peshawar,35,Female,O+,Kidney Stone,Pediatric,11/23/2021,6,100.6,132,71500,No,Discharged
+PAK-10321,Aga Khan Hospital Karachi,Rawalpindi,42,Female,O-,Malaria,Orthopedic,1/20/2021,18,96.4,139,12500,No,Admitted
+PAK-10020,Civil Hospital Karachi,islamabad,31,Male,AB-,Jaundice,Cardiac,2/24/2024,16,96.8,135,22100,,Admitted
+PAK-10173,Shaukat Khanum Lahore,Karachi,68,Female,O-,Malaria,Pediatric,9/1/2023,19,99.4,140,26400,No,Admitted
+PAK-10578,Jinnah Hospital Lahore,Lahore,38,Female,O-,Hypertension,Pediatric,4/30/2023,6,102.1,112,,No,Admitted
+PAK-10313,Hayatabad Medical Peshawar,Islamabad,21,Female,O-,Typhoid,Orthopedic,5/4/2022,17,98.6,142,15000,Yes,Admitted
+PAK-10663,Liaquat National Karachi,KARACHI,77,Male,O+,Jaundice,ICU,5/25/2024,12,96.3,91,47800,No,Deceased
+PAK-10013,pims islamabad,Lahore,54,Female,AB+,Heart Disease,Pediatric,3/3/2021,21,99.5,146,15800,No,Discharged
+PAK-10306,Shaukat Khanum Lahore,Peshawar,54,Male,O+,Appendicitis,Orthopedic,4/10/2024,25,97.4,94,40900,No,Referred
+PAK-10026,Shaukat Khanum Lahore,Karachi,,Male,B-,hypertension,Pediatric,4/21/2024,8,100.4,124,48800,No,Discharged
+PAK-10531,Aga Khan Hospital Karachi,Lahore,60,Female,,Asthma,Surgical,3/25/2022,18,101.8,124,58100,No,Discharged
+PAK-10170,PKLI Lahore,Lahore,72,Male,A-,Tuberculosis,ICU,12/27/2023,24,99.7,91,14700,No,Discharged
+PAK-10501,PIMS Islamabad,Lahore,2,Female,O-,Kidney Stone,Cardiac,12/14/2021,4,100.6,98,14600,Partial,Admitted
+PAK-10454,jinnah hospital lahore,Multan,38,Female,AB-,Typhoid,Emergency,1/25/2022,25,101.7,107,8800,Yes,Under Treatment
+PAK-10246,Services Hospital Lahore,Multan,37,Male,A+,Diabetes Type 2,Orthopedic,6/4/2021,22,97.6,133,12000,No,Admitted
+PAK-10299,Aga Khan Hospital Karachi,Karachi,61,Female,O+,DENGUE FEVER,Pediatric,5/20/2022,15,98.4,,28000,No,Discharged
+PAK-10680,Jinnah Hospital Lahore,Islamabad,83,Female,A+,COVID-19,Orthopedic,9/10/2022,15,98.3,146,29300,Yes,Admitted
+PAK-10273,Jinnah Hospital Lahore,Multan,68,Male,AB-,Fracture,Surgical,1/24/2022,20,101.5,100,25700,Yes,Admitted
+PAK-10155,Civil Hospital Karachi,FAISALABAD,5,Male,A-,covid-19,Orthopedic,5/11/2024,24,99.6,103,20800,No,Discharged
+PAK-10127,Hayatabad Medical Peshawar,Islamabad,78,Male,AB-,Tuberculosis,Maternity,5/30/2022,9,101.1,128,33900,No,Referred
+PAK-10691,PIMS Islamabad,Peshawar,81,Male,A-,COVID-19,Emergency,11/30/2022,17,98.3,156,19800,Yes,Discharged
+PAK-10342,Shaukat Khanum Lahore,Lahore,47,Female,O+,Tuberculosis,Maternity,12/20/2023,21,102.7,169,37800,No,Admitted
+PAK-10288,Jinnah Hospital Lahore,Faisalabad,89,Female,A+,Heart Disease,Maternity,4/27/2021,25,103.8,114,48700,No,Discharged
+PAK-10114,Civil Hospital Karachi,Rawalpindi,2,Female,B+,Fracture,Pediatric,7/6/2021,20,99.8,115,14100,No,Discharged
+PAK-10479,Hayatabad Medical Peshawar,Faisalabad,12,Female,O+,Kidney Stone,General,5/12/2023,29,104.3,115,51100,Yes,Discharged
+PAK-10174,liaquat national karachi,Lahore,33,Female,A+,Hypertension,ICU,1/31/2024,2,102.1,147,38300,,Admitted
+PAK-10616,PKLI Lahore,QUETTA,55,Male,O+,Heart Disease,General,2/25/2021,16,98.9,109,58200,Yes,Admitted
+PAK-10391,Civil Hospital Karachi,Quetta,2,Male,AB+,Hypertension,Cardiac,1/17/2023,1,99.4,123,12800,Yes,Discharged
+PAK-10058,Aga Khan Hospital Karachi,Multan,38,Female,AB-,Appendicitis,Orthopedic,4/12/2022,4,98.3,142,187900,No,Discharged
+PAK-10463,Civil Hospital Karachi,Multan,75,Male,A+,Jaundice,Maternity,6/3/2023,11,95.2,172,,Partial,Under Treatment
+PAK-10223,PKLI Lahore,Quetta,49,Female,AB+,Hypertension,General,7/18/2021,12,99.4,176,29300,Partial,Admitted
+PAK-10281,Jinnah Hospital Lahore,Lahore,36,Male,A+,Fracture,Pediatric,4/28/2021,1,100.5,141,26600,,Under Treatment
+PAK-10018,PKLI Lahore,Karachi,49,Male,A-,Jaundice,Pediatric,5/17/2024,22,101.5,151,74600,Partial,Discharged
+PAK-10594,Civil Hospital Karachi,Faisalabad,79,Female,B-,Pneumonia,Surgical,12/22/2022,23,100.9,94,18000,Partial,Discharged
+PAK-10323,PKLI Lahore,Rawalpindi,24,Male,O+,Kidney Stone,General,6/26/2024,28,98.2,105,23700,Yes,Referred
+PAK-10256,PIMS Islamabad,Multan,21,Male,AB-,Asthma,General,4/13/2023,5,103,175,75000,Partial,Admitted
+PAK-10531,Aga Khan Hospital Karachi,Lahore,60,Female,,Asthma,Surgical,3/25/2022,18,101.8,124,58100,No,Discharged
+PAK-10682,Hayatabad Medical Peshawar,Rawalpindi,28,Female,B-,Tuberculosis,Cardiac,9/5/2021,7,97.4,98,199500,No,Discharged
+PAK-10191,PIMS Islamabad,Quetta,89,Female,B+,Hypertension,Surgical,4/6/2022,20,99.8,158,44400,No,Admitted
+PAK-10700,Shaukat Khanum Lahore,Lahore,36,Male,A-,Kidney Stone,Maternity,6/11/2023,16,102.9,97,8700,,Admitted
+PAK-10629,Aga Khan Hospital Karachi,Peshawar,64,Male,B+,Jaundice,Cardiac,11/2/2022,3,102.4,137,27100,No,Deceased
+PAK-10389,Jinnah Hospital Lahore,Karachi,49,Female,B-,Fracture,Maternity,3/27/2021,15,97.9,108,6100,No,Referred
+PAK-10095,Civil Hospital Karachi,Lahore,76,Female,O-,Malaria,Surgical,10/20/2023,14,103.1,172,68400,No,Admitted
+PAK-10181,PKLI Lahore,Lahore,48,Female,O+,Hepatitis B,Pediatric,1/10/2024,6,101.7,153,12400,Yes,Discharged
+PAK-10302,Liaquat National Karachi,Islamabad,36,Male,O-,DENGUE FEVER,Pediatric,3/23/2021,14,100.2,114,27100,No,Discharged
+PAK-10446,PIMS Islamabad,Lahore,70,Female,A+,Appendicitis,Emergency,12/9/2022,20,103.1,125,63900,No,Discharged
+PAK-10524,Civil Hospital Karachi,Lahore,8,Female,,Fracture,Emergency,10/10/2023,29,100.7,112,12000,No,Discharged
+PAK-10474,Shaukat Khanum Lahore,Rawalpindi,22,Male,O-,Typhoid,Emergency,4/5/2023,16,100.1,120,13000,No,Referred
+PAK-10471,Hayatabad Medical Peshawar,Rawalpindi,55,Male,AB+,Hypertension,Pediatric,9/26/2022,4,103.9,108,65800,No,Referred
+PAK-10628,PKLI Lahore,Lahore,13,Male,A-,Hypertension,Emergency,2/16/2023,14,102.1,98,22200,Yes,Admitted
+PAK-10448,Jinnah Hospital Lahore,Lahore,82,Male,B+,Kidney Stone,Maternity,6/13/2023,6,96.8,113,11500,,Under Treatment
+PAK-10006,PIMS Islamabad,Karachi,56,Female,A+,Hepatitis B,Pediatric,10/13/2021,25,99,122,36200,No,Discharged
+PAK-10698,Liaquat National Karachi,ISLAMABAD,67,Female,AB+,Dengue Fever,Surgical,7/31/2023,5,99.9,100,22300,Yes,Referred
+PAK-10046,PIMS Islamabad,Faisalabad,21,Male,AB+,Typhoid,Pediatric,1/4/2024,22,96,178,97400,No,Discharged
+PAK-10504,PIMS Islamabad,Lahore,78,Female,O-,Heart Disease,ICU,11/22/2023,28,97.1,165,88400,Yes,Referred
+PAK-10538,PIMS Islamabad,Karachi,18,Male,B+,COVID-19,Emergency,9/6/2021,11,103.3,95,20100,No,Discharged
+PAK-10172,Services Hospital Lahore,Quetta,46,Male,O-,Pneumonia,Surgical,9/20/2021,21,97.2,102,39000,No,Referred
+PAK-10017,Liaquat National Karachi,Islamabad,76,Female,AB-,Hepatitis B,Orthopedic,11/1/2023,13,101,91,13800,Yes,Discharged
+PAK-10049,Aga Khan Hospital Karachi,Faisalabad,8,Female,O-,Dengue Fever,Orthopedic,6/11/2021,13,99.9,160,146000,No,Under Treatment
+PAK-10688,Jinnah Hospital Lahore,Islamabad,64,Female,O+,fracture,Orthopedic,1/29/2023,12,98.8,143,17800,No,Discharged
+PAK-10652,Civil Hospital Karachi,Karachi,60,Female,O+,Diabetes Type 2,Cardiac,11/9/2021,16,99.5,119,121400,No,Discharged
+PAK-10004,Civil Hospital Karachi,Lahore,22,Male,B-,Jaundice,General,5/17/2022,7,99.3,98,10100,No,Admitted
+PAK-10469,Civil Hospital Karachi,Multan,68,Female,B-,Heart Disease,Maternity,9/8/2022,19,98.5,138,39600,Yes,Discharged
+PAK-10431,Liaquat National Karachi,karachi,17,Female,,Appendicitis,General,12/21/2022,24,100.1,159,59800,Yes,Discharged
+PAK-10317,LIAQUAT NATIONAL KARACHI,Karachi,9,Male,B-,Malaria,ICU,9/7/2022,15,102.9,,65200,,Discharged
+PAK-10656,Shaukat Khanum Lahore,Islamabad,83,Female,A-,TYPHOID,Pediatric,8/23/2021,3,99.7,,174000,Yes,Discharged
+PAK-10284,Jinnah Hospital Lahore,Quetta,2,Male,AB+,COVID-19,Cardiac,9/4/2023,2,102.6,109,42200,No,Discharged
+PAK-10097,Liaquat National Karachi,Multan,57,Male,O-,Fracture,Emergency,7/29/2023,13,101.9,131,73500,No,Discharged
+PAK-10286,Civil Hospital Karachi,Multan,77,Female,O+,Pneumonia,Surgical,12/24/2023,26,95.7,127,17900,Partial,Admitted
+PAK-10432,PIMS Islamabad,Karachi,16,Female,B+,Asthma,Maternity,11/10/2023,3,98.6,134,21000,No,Discharged
+PAK-10226,Liaquat National Karachi,RAWALPINDI,11,Female,B+,Fracture,ICU,5/18/2023,16,98.1,120,46700,No,Admitted
+PAK-10027,Services Hospital Lahore,Karachi,20,Female,A+,Malaria,Pediatric,7/24/2022,25,100.2,144,9800,No,Admitted
+PAK-10560,aga khan hospital karachi,QUETTA,73,Female,O+,Appendicitis,Cardiac,5/5/2022,20,101,116,5700,Yes,Discharged
+PAK-10264,LIAQUAT NATIONAL KARACHI,Faisalabad,51,Male,AB+,Tuberculosis,Cardiac,1/5/2021,12,100.1,155,9100,No,Discharged
+PAK-10051,Services Hospital Lahore,Faisalabad,42,Male,AB-,Hepatitis B,Surgical,8/24/2022,18,98,144,27100,No,Discharged
+PAK-10365,CIVIL HOSPITAL KARACHI,Karachi,85,Female,B+,Tuberculosis,Orthopedic,5/18/2023,13,100,110,22100,Yes,Discharged
+PAK-10230,Services Hospital Lahore,Karachi,66,Male,AB-,COVID-19,Maternity,7/21/2021,12,99.8,167,11800,Yes,Discharged
+PAK-10038,Hayatabad Medical Peshawar,Multan,6,Female,A+,HEART DISEASE,Maternity,2/18/2023,5,101.2,171,28500,Partial,Under Treatment
+PAK-10158,Jinnah Hospital Lahore,ISLAMABAD,34,Female,,Hepatitis B,General,2/9/2021,18,99.1,112,64700,Yes,Admitted
+PAK-10238,Aga Khan Hospital Karachi,Karachi,66,Male,A+,Appendicitis,ICU,1/4/2024,23,97.6,98,7800,No,Admitted
+PAK-10683,Hayatabad Medical Peshawar,Rawalpindi,51,Male,O+,COVID-19,Surgical,3/5/2024,15,102.4,176,51100,No,Discharged
+PAK-10375,Services Hospital Lahore,QUETTA,19,Male,O+,Fracture,Cardiac,5/26/2023,26,98.3,142,11100,Yes,Admitted
+PAK-10371,PKLI Lahore,Lahore,75,Female,O-,Appendicitis,Emergency,6/21/2022,28,100.6,103,45300,Yes,Deceased
+PAK-10176,pkli lahore,Lahore,19,Male,AB-,COVID-19,Surgical,6/27/2022,19,103,124,,No,Admitted
+PAK-10604,Jinnah Hospital Lahore,MULTAN,,Female,A-,Kidney Stone,Maternity,7/13/2022,19,97.7,129,29400,No,Referred
+PAK-10502,PKLI Lahore,Islamabad,35,Male,O-,Typhoid,Orthopedic,6/23/2021,13,98.3,100,31000,Yes,Discharged
+PAK-10526,Services Hospital Lahore,Lahore,68,Male,AB+,Tuberculosis,Cardiac,5/15/2022,16,95.1,158,10300,Yes,Admitted
+PAK-10195,Hayatabad Medical Peshawar,Multan,77,Male,B-,Dengue Fever,Maternity,4/19/2024,17,99.8,171,51800,Yes,Deceased
+PAK-10606,Liaquat National Karachi,Rawalpindi,82,Female,AB-,Kidney Stone,Cardiac,9/22/2023,15,102.2,,,No,Discharged
+PAK-10614,Aga Khan Hospital Karachi,Islamabad,21,Male,B+,Tuberculosis,Orthopedic,6/28/2024,13,99.5,158,104100,Yes,Discharged
+PAK-10444,Shaukat Khanum Lahore,Faisalabad,21,Female,A+,Typhoid,General,5/6/2024,5,99.1,106,20900,No,Admitted
+PAK-10465,Hayatabad Medical Peshawar,Lahore,52,Female,B-,Fracture,ICU,11/8/2022,12,97.4,142,9900,Partial,Admitted
+PAK-10468,Services Hospital Lahore,Faisalabad,26,Male,O-,Fracture,General,9/13/2021,3,96.6,120,22500,No,Discharged
+PAK-10687,Services Hospital Lahore,Lahore,8,Female,B+,Dengue Fever,Maternity,5/28/2023,28,102.4,142,4300,No,Referred
+PAK-10135,pims islamabad,Karachi,,Female,,Malaria,ICU,8/25/2022,8,101.8,135,93600,Partial,Admitted
+PAK-10612,PKLI Lahore,Lahore,11,Male,O-,Heart Disease,Maternity,8/16/2023,28,100.7,96,5400,No,Under Treatment
+PAK-10068,Hayatabad Medical Peshawar,Islamabad,89,Female,B+,Dengue Fever,Maternity,1/29/2023,27,101.6,179,27300,Partial,Discharged
+PAK-10588,Civil Hospital Karachi,KARACHI,86,Male,O+,Hepatitis B,Pediatric,4/11/2024,27,100.9,171,65700,No,Discharged
+PAK-10169,Civil Hospital Karachi,Quetta,,Female,A-,tuberculosis,Pediatric,5/22/2021,11,99.3,141,56200,Partial,Admitted
+PAK-10313,Hayatabad Medical Peshawar,Islamabad,21,Female,O-,Typhoid,Orthopedic,5/4/2022,17,98.6,142,15000,Yes,Admitted
+PAK-10163,Shaukat Khanum Lahore,Lahore,30,Male,AB+,Diabetes Type 2,Cardiac,4/29/2021,22,97.2,102,14900,No,Discharged
+PAK-10310,Hayatabad Medical Peshawar,ISLAMABAD,47,Male,O+,Jaundice,Pediatric,6/19/2022,26,99.1,136,17100,No,Discharged
+PAK-10194,Services Hospital Lahore,Karachi,73,Male,A-,Hypertension,Pediatric,2/13/2021,26,100.6,118,Rs.64200.0,Partial,Discharged
+PAK-10500,PKLI Lahore,Peshawar,66,Female,O-,Jaundice,ICU,8/28/2023,16,96.8,163,15300,No,Admitted
+PAK-10366,PKLI Lahore,Multan,18,Female,,Hypertension,Pediatric,7/21/2022,27,99.9,106,12100,Partial,Under Treatment
+PAK-10384,Civil Hospital Karachi,Lahore,8,Female,,Kidney Stone,Orthopedic,4/7/2024,1,102.9,122,14000,No,Admitted
+PAK-10642,Civil Hospital Karachi,Faisalabad,28,Female,B+,Hepatitis B,Emergency,4/17/2021,23,101.4,163,3800000,No,Discharged
+PAK-10515,jinnah hospital lahore,Quetta,65,Male,,Appendicitis,ICU,5/17/2022,13,102.1,99,22400,No,Discharged
+PAK-10153,PIMS ISLAMABAD,Rawalpindi,8,Male,O-,Tuberculosis,Emergency,12/23/2023,8,103.3,128,7600,No,Discharged
+PAK-10470,Shaukat Khanum Lahore,Multan,82,Male,A+,Diabetes Type 2,Pediatric,11/5/2023,20,101.4,176,41200,No,Admitted
+PAK-10483,Liaquat National Karachi,Quetta,82,Female,B+,Hypertension,Orthopedic,3/11/2024,18,99.1,93,278300,No,Discharged
+PAK-10227,Services Hospital Lahore,karachi,72,Male,O+,Kidney Stone,General,4/22/2023,18,96.8,115,Rs.24400.0,No,Discharged
+PAK-10643,Services Hospital Lahore,faisalabad,75,Female,A+,Heart Disease,Orthopedic,12/18/2022,17,94.6,152,14300,,Discharged
+PAK-10570,Jinnah Hospital Lahore,Rawalpindi,16,Male,AB-,Malaria,Surgical,6/15/2021,4,97.4,113,36100,Partial,Discharged
+PAK-10104,jinnah hospital lahore,Faisalabad,37,Male,AB+,tuberculosis,Emergency,6/23/2022,8,101.3,172,30800,No,Admitted
+PAK-10422,Aga Khan Hospital Karachi,Karachi,31,Female,B-,Diabetes Type 2,Surgical,4/12/2022,8,99.7,98,103200,No,Admitted
+PAK-10420,Services Hospital Lahore,lahore,69,Male,B-,Typhoid,ICU,12/18/2022,14,95.2,114,Rs.5400.0,No,Deceased
+PAK-10573,Aga Khan Hospital Karachi,Multan,40,Female,AB-,Hypertension,Orthopedic,4/19/2022,9,101.2,133,11700,Yes,Discharged
+PAK-10540,Hayatabad Medical Peshawar,Lahore,63,Male,O-,Fracture,General,10/1/2021,23,100,167,26000,Partial,Admitted
+PAK-10075,JINNAH HOSPITAL LAHORE,Rawalpindi,76,Female,,Hypertension,General,12/30/2023,26,98.1,142,23700,Yes,Admitted
+PAK-10116,Shaukat Khanum Lahore,Karachi,37,Female,A+,COVID-19,General,8/13/2021,25,103.1,111,19900,No,Referred
+PAK-10408,Liaquat National Karachi,Karachi,87,Male,AB-,Appendicitis,Maternity,11/12/2022,22,99.7,101,12300,Yes,Discharged
+PAK-10686,Jinnah Hospital Lahore,Lahore,5,Male,AB-,Dengue Fever,Orthopedic,12/28/2023,8,98.1,,8900,Yes,Discharged
+PAK-10120,PKLI Lahore,Rawalpindi,1,Male,AB+,Diabetes Type 2,ICU,5/6/2024,15,102.1,122,33900,No,Deceased
+PAK-10054,PKLI Lahore,Multan,78,Male,AB+,covid-19,Maternity,3/28/2024,20,105.1,92,27700,No,Discharged
+PAK-10152,Aga Khan Hospital Karachi,peshawar,1,Male,AB+,Fracture,Orthopedic,1/10/2024,21,96.5,115,35500,Yes,Discharged
+PAK-10404,Civil Hospital Karachi,Islamabad,3,Male,O+,heart disease,General,12/29/2021,8,99.5,96,9500,No,Deceased
+PAK-10671,Civil Hospital Karachi,Rawalpindi,17,Female,A+,Appendicitis,Surgical,10/1/2022,13,101.3,108,66900,No,Admitted
+PAK-10208,Hayatabad Medical Peshawar,Quetta,88,Female,B+,Tuberculosis,Emergency,11/19/2023,19,100,135,158700,No,Discharged
+PAK-10610,Aga Khan Hospital Karachi,Karachi,,Female,AB-,Typhoid,Maternity,4/9/2023,23,104.5,,9600,Yes,Discharged
+PAK-10545,Liaquat National Karachi,Lahore,60,Male,A+,Tuberculosis,ICU,10/12/2022,29,103.3,91,3300,No,Referred
+PAK-10488,Civil Hospital Karachi,Karachi,,Male,O-,Dengue Fever,Pediatric,9/15/2022,6,101.9,148,54500,Partial,Admitted
+PAK-10550,hayatabad medical peshawar,islamabad,83,Female,O-,Dengue Fever,General,1/28/2024,23,99.7,96,13400,No,Discharged
+PAK-10009,Civil Hospital Karachi,Quetta,28,Female,AB-,COVID-19,General,6/28/2021,6,100.6,165,126700,Yes,Referred
+PAK-10576,HAYATABAD MEDICAL PESHAWAR,Karachi,52,Male,B-,pneumonia,Orthopedic,3/15/2022,22,101.8,117,25800,Partial,Discharged
+PAK-10037,Services Hospital Lahore,Islamabad,36,Female,AB-,Diabetes Type 2,Emergency,7/9/2021,29,96.4,91,13800,Yes,Referred
+PAK-10453,PIMS ISLAMABAD,Faisalabad,,Female,,Hepatitis B,Orthopedic,3/26/2024,17,98.7,171,7800,No,Discharged
+PAK-10140,Civil Hospital Karachi,Islamabad,50,Male,AB+,COVID-19,General,6/24/2022,11,98.2,116,23200,No,Admitted
+PAK-10254,Jinnah Hospital Lahore,Karachi,46,Female,B+,Typhoid,Cardiac,4/30/2022,3,99.1,155,12300,No,Discharged
+PAK-10304,Hayatabad Medical Peshawar,Faisalabad,68,Female,A+,COVID-19,General,6/17/2021,15,103.5,,14200,Yes,Discharged
+PAK-10536,PKLI Lahore,Rawalpindi,78,Male,AB-,Diabetes Type 2,Surgical,2/16/2024,28,98.6,170,,Yes,Discharged
+PAK-10539,Shaukat Khanum Lahore,Lahore,60,Male,A-,Tuberculosis,Orthopedic,7/24/2023,13,99.9,,17900,Yes,Admitted
+PAK-10369,PIMS Islamabad,Peshawar,39,Male,,Fracture,General,11/15/2022,29,100.8,170,56100,No,Discharged
+PAK-10060,Liaquat National Karachi,Faisalabad,62,Female,O-,Heart Disease,Pediatric,6/13/2021,1,100.2,132,7100,Yes,Referred
+PAK-10112,Services Hospital Lahore,Islamabad,20,Female,B+,Dengue Fever,Surgical,11/10/2023,21,100.5,158,117100,No,Discharged
+PAK-10513,PIMS Islamabad,Rawalpindi,36,Male,O+,Tuberculosis,Cardiac,2/20/2021,9,97.5,114,86600,No,Referred
+PAK-10622,Civil Hospital Karachi,Lahore,52,Female,B-,Malaria,Surgical,5/28/2023,25,100.2,112,9600,No,Deceased
+PAK-10634,Services Hospital Lahore,Lahore,2,Male,AB+,Heart Disease,Cardiac,2/16/2023,3,102.8,114,27100,,Discharged
+PAK-10263,PKLI Lahore,Faisalabad,75,Male,B-,Typhoid,Cardiac,2/16/2023,3,97.9,158,23300,No,Admitted
+PAK-10599,Civil Hospital Karachi,Karachi,39,Male,A-,Jaundice,Cardiac,1/24/2024,27,101.5,136,22200,No,Discharged
+PAK-10298,Shaukat Khanum Lahore,Peshawar,42,Female,B-,HEART DISEASE,Cardiac,3/12/2024,29,99.3,102,26600,Partial,Under Treatment
+PAK-10478,Aga Khan Hospital Karachi,Islamabad,60,Male,A-,hepatitis b,Maternity,1/28/2022,29,100.5,,,Yes,Admitted
+PAK-10415,Liaquat National Karachi,Islamabad,8,Female,B-,Heart Disease,Cardiac,3/21/2021,14,104.8,130,12600,Partial,Discharged
+PAK-10151,Shaukat Khanum Lahore,Rawalpindi,85,Male,AB+,hepatitis b,Cardiac,11/27/2021,21,99.5,95,14300,Yes,Discharged
+PAK-10434,PIMS Islamabad,Karachi,8,Female,AB-,COVID-19,Emergency,1/4/2024,6,98.5,168,11800,No,Admitted
+PAK-10645,jinnah hospital lahore,QUETTA,8,Male,B+,HEPATITIS B,ICU,5/21/2021,12,102,108,77000,No,Deceased
+PAK-10441,Civil Hospital Karachi,Peshawar,84,Female,B-,Hypertension,Surgical,6/28/2022,2,99.7,177,28300,No,Referred
+PAK-10677,Civil Hospital Karachi,Rawalpindi,11,Female,,Hepatitis B,ICU,4/27/2024,27,100.5,158,28500,Yes,Discharged
+PAK-10267,Jinnah Hospital Lahore,Karachi,21,Female,A-,Appendicitis,Surgical,7/21/2023,12,98.3,122,19100,No,Admitted
+PAK-10620,shaukat khanum lahore,Lahore,52,Male,O+,Appendicitis,Orthopedic,2/25/2021,14,100.5,176,59400,No,Deceased
+PAK-10360,Hayatabad Medical Peshawar,Lahore,25,Male,B-,COVID-19,Orthopedic,11/2/2023,28,99.3,103,130100,Yes,Discharged
+PAK-10632,PIMS Islamabad,Islamabad,41,Male,A+,Tuberculosis,General,11/1/2022,2,100.2,137,32700,Partial,Discharged
+PAK-10039,Aga Khan Hospital Karachi,Lahore,39,Female,AB+,Dengue Fever,Emergency,7/18/2021,20,96.4,,25700,Yes,Admitted
+PAK-10128,Shaukat Khanum Lahore,Quetta,12,Male,O-,Appendicitis,Surgical,2/8/2024,15,98.8,122,50400,Yes,Discharged
+PAK-10424,Services Hospital Lahore,Lahore,55,Male,AB-,Tuberculosis,Cardiac,2/18/2021,15,98.3,150,14100,No,Admitted
+PAK-10417,PIMS Islamabad,karachi,44,Male,AB+,kidney stone,General,4/1/2022,6,99.3,177,40700,Yes,Discharged
+PAK-10489,PKLI Lahore,Karachi,78,Male,B+,Jaundice,Orthopedic,8/11/2022,26,99.1,179,30400,Partial,Discharged
+PAK-10308,PIMS Islamabad,Islamabad,44,Male,B+,DENGUE FEVER,Emergency,12/7/2023,24,98.8,166,56400,No,Referred
+PAK-10199,Aga Khan Hospital Karachi,Faisalabad,4,Female,AB+,Jaundice,General,3/28/2022,13,100.8,91,6200,No,Under Treatment
+PAK-10352,Civil Hospital Karachi,Islamabad,71,Female,AB+,Fracture,Orthopedic,11/15/2021,27,97.5,158,82300,Yes,Discharged
+PAK-10148,Jinnah Hospital Lahore,Quetta,80,Male,AB-,Diabetes Type 2,General,2/12/2022,1,97.7,159,50500,Yes,Discharged
+PAK-10147,Services Hospital Lahore,Karachi,52,Male,AB+,DENGUE FEVER,Surgical,6/1/2024,17,102.7,147,101400,No,Discharged
+PAK-10522,civil hospital karachi,karachi,25,Male,B+,KIDNEY STONE,Cardiac,2/3/2022,7,100.5,149,14300,Partial,Referred
+PAK-10451,Hayatabad Medical Peshawar,Karachi,33,Male,B+,HEART DISEASE,Surgical,8/25/2021,18,99,148,31000,No,Admitted
+PAK-10660,Services Hospital Lahore,Karachi,65,Female,A+,Fracture,Orthopedic,6/9/2022,16,97.6,143,81400,No,Discharged
+PAK-10535,Civil Hospital Karachi,lahore,31,Female,AB-,Asthma,Cardiac,4/13/2021,7,102,161,31300,Yes,Discharged
+PAK-10349,PIMS Islamabad,Faisalabad,37,Female,O-,COVID-19,Maternity,8/25/2021,29,98.6,96,,No,Discharged
+PAK-10464,PIMS Islamabad,Lahore,67,Male,AB+,Malaria,Maternity,5/24/2021,15,104,119,11900,No,Admitted
+PAK-10326,PKLI Lahore,Quetta,26,Male,A-,Typhoid,ICU,5/31/2021,8,104.3,128,85800,No,Discharged
+PAK-10187,Services Hospital Lahore,Rawalpindi,63,Male,B+,Pneumonia,ICU,11/26/2023,6,98.3,94,27900,Yes,Referred
+PAK-10124,PKLI Lahore,Peshawar,69,Male,A-,Typhoid,Orthopedic,5/5/2024,11,95.9,115,50900,Yes,Discharged
+PAK-10605,Jinnah Hospital Lahore,Peshawar,53,Male,B-,Typhoid,General,6/12/2023,29,96.8,128,34500,No,Discharged
+PAK-10144,PKLI LAHORE,Islamabad,84,Female,B-,typhoid,Emergency,8/6/2021,11,99.3,106,21900,No,Discharged
+PAK-10678,Hayatabad Medical Peshawar,Quetta,52,Male,AB-,COVID-19,Orthopedic,5/13/2022,27,98.6,106,31900,Yes,Discharged
+PAK-10198,Shaukat Khanum Lahore,Islamabad,,Female,A-,Typhoid,Surgical,4/20/2024,26,97,130,61900,Yes,Admitted
+PAK-10280,Liaquat National Karachi,Karachi,16,Male,O-,Malaria,Pediatric,10/5/2022,16,100.3,94,10500,Yes,Admitted
+PAK-10294,Liaquat National Karachi,Lahore,31,Male,B+,JAUNDICE,Maternity,5/20/2021,29,101.1,156,20600,No,Discharged
+PAK-10401,Jinnah Hospital Lahore,Peshawar,67,Male,A+,Asthma,Surgical,11/13/2021,3,101.7,179,13200,Yes,Discharged
+PAK-10123,Civil Hospital Karachi,Quetta,59,Female,O-,Appendicitis,Orthopedic,2/21/2023,3,99.9,119,25400,No,Admitted
+PAK-10184,Hayatabad Medical Peshawar,Karachi,66,Female,AB-,Hypertension,Orthopedic,3/29/2023,6,96.4,171,37400,No,Discharged
+PAK-10203,Hayatabad Medical Peshawar,Karachi,13,Male,A+,Pneumonia,Maternity,4/14/2022,9,102.6,137,Rs.26900.0,Partial,Discharged
+PAK-10439,Liaquat National Karachi,Karachi,23,Female,B+,Fracture,Cardiac,1/1/2022,23,100.2,135,63000,Partial,Discharged
+PAK-10247,Jinnah Hospital Lahore,Multan,,Male,O+,Hepatitis B,Surgical,6/27/2023,10,98.4,117,43300,No,Discharged
+PAK-10416,Aga Khan Hospital Karachi,Multan,22,Male,O+,Jaundice,Maternity,8/22/2023,13,100.9,95,18200,Yes,Admitted
+PAK-10631,Aga Khan Hospital Karachi,Rawalpindi,9,Female,AB-,COVID-19,Cardiac,7/21/2023,16,102.1,130,28100,No,Admitted
+PAK-10130,Jinnah Hospital Lahore,Faisalabad,53,Male,B-,Pneumonia,Surgical,8/23/2021,1,101.8,137,11500,Partial,Admitted
+PAK-10403,PIMS Islamabad,Rawalpindi,58,Male,AB-,Typhoid,Emergency,11/29/2021,16,200,169,49000,No,Discharged
+PAK-10649,Civil Hospital Karachi,lahore,49,Male,A-,Malaria,Cardiac,2/13/2022,22,99.8,122,55300,No,Referred
+PAK-10589,civil hospital karachi,Lahore,5,Female,O-,Appendicitis,Orthopedic,2/10/2021,10,96.8,113,31500,No,Admitted
+PAK-10220,PIMS Islamabad,Karachi,60,Female,AB+,Heart Disease,Orthopedic,4/14/2023,16,103.7,153,48300,Partial,Admitted
+PAK-10669,PIMS Islamabad,Lahore,24,Male,B+,Pneumonia,Cardiac,3/31/2024,12,99.5,149,41400,,Discharged
+PAK-10542,PKLI Lahore,Rawalpindi,32,Male,B-,Appendicitis,Pediatric,12/24/2023,6,98.8,101,12200,No,Admitted
+PAK-10650,Aga Khan Hospital Karachi,Islamabad,-5,Female,O+,Tuberculosis,General,2/11/2021,27,98.3,99,62800,Yes,Discharged
+PAK-10549,Civil Hospital Karachi,Lahore,5,Female,AB+,TUBERCULOSIS,Surgical,5/24/2023,29,101.5,170,3900,Yes,Deceased
+PAK-10387,Services Hospital Lahore,Rawalpindi,68,Male,B+,Malaria,Orthopedic,5/31/2023,8,101.8,143,11200,Yes,Admitted
+PAK-10689,Liaquat National Karachi,peshawar,10,Male,B+,Heart Disease,Pediatric,5/22/2021,13,97.7,173,3400,No,Deceased
+PAK-10510,Hayatabad Medical Peshawar,Faisalabad,25,Male,B+,Asthma,Cardiac,4/6/2022,24,99,117,18300,Yes,Discharged
+PAK-10268,Jinnah Hospital Lahore,Lahore,13,Male,O+,Asthma,General,8/8/2022,26,97.2,128,Rs.39200.0,No,Discharged
+PAK-10442,Jinnah Hospital Lahore,Rawalpindi,65,Male,AB+,Dengue Fever,Maternity,3/20/2021,26,102.3,148,28600,,Admitted
+PAK-10497,Hayatabad Medical Peshawar,Karachi,15,Male,O+,Jaundice,Orthopedic,6/25/2023,27,96.2,144,11200,Partial,Discharged
+PAK-10113,Services Hospital Lahore,Islamabad,78,Female,O+,typhoid,Orthopedic,10/8/2023,23,112.5,138,52800,Yes,Discharged
+PAK-10233,Services Hospital Lahore,Islamabad,3,Female,A+,Hepatitis B,Orthopedic,11/26/2022,15,97,154,11200,Partial,Discharged
+PAK-10619,Jinnah Hospital Lahore,Faisalabad,34,Female,O+,Tuberculosis,Maternity,3/1/2024,10,99.2,156,12200,Yes,Referred
+PAK-10374,Jinnah Hospital Lahore,Rawalpindi,46,Male,AB-,Appendicitis,Pediatric,2/4/2024,7,102.5,108,15000,Yes,Admitted
+PAK-10234,PIMS Islamabad,Islamabad,85,Female,,Diabetes Type 2,Maternity,8/12/2021,16,98.3,,33900,No,Under Treatment
+PAK-10675,PKLI Lahore,faisalabad,58,Female,A+,Jaundice,Cardiac,2/11/2022,2,97,129,19000,Partial,Discharged
+PAK-10318,PIMS Islamabad,Karachi,15,Female,AB+,Asthma,Pediatric,7/26/2023,23,101.6,122,56200,No,Discharged
+PAK-10411,Aga Khan Hospital Karachi,Islamabad,81,Female,A+,Typhoid,ICU,7/1/2022,17,100.4,139,38300,No,Discharged
+PAK-10636,pkli lahore,Peshawar,48,Female,B+,Malaria,Pediatric,5/14/2023,11,99.5,114,9800,Yes,Admitted
+PAK-10359,PKLI Lahore,Lahore,57,Male,A-,Hypertension,Cardiac,6/25/2022,11,100.3,112,66900,Yes,Admitted
+PAK-10259,PKLI Lahore,Multan,47,Male,O-,Fracture,Cardiac,3/14/2022,27,104.5,158,5700,No,Deceased
+PAK-10283,PIMS Islamabad,Karachi,18,Female,O+,Jaundice,ICU,4/11/2024,25,100,174,40100,No,Admitted
+PAK-10377,Civil Hospital Karachi,Rawalpindi,42,Male,A+,Fracture,ICU,1/20/2021,24,98.5,166,11500,Yes,Deceased
+PAK-10385,SERVICES HOSPITAL LAHORE,Rawalpindi,70,Male,AB-,Appendicitis,ICU,2/6/2024,23,99.4,121,Rs.9500.0,Yes,Discharged
+PAK-10225,jinnah hospital lahore,Islamabad,,Male,O+,Fracture,Surgical,12/27/2022,24,101.6,,,Partial,Admitted
+PAK-10676,Jinnah Hospital Lahore,Faisalabad,31,Female,O-,Hepatitis B,Emergency,6/5/2021,26,100.1,,8000,No,Discharged
+PAK-10581,Hayatabad Medical Peshawar,Lahore,63,Male,AB+,Typhoid,Surgical,1/17/2024,1,101.4,,49500,No,Discharged
+PAK-10473,Civil Hospital Karachi,islamabad,35,Male,A+,Kidney Stone,Pediatric,10/31/2022,26,99.3,104,37100,No,Admitted
+PAK-10348,Liaquat National Karachi,Multan,48,Male,A-,Heart Disease,Maternity,6/26/2022,6,102.5,107,85400,,Deceased
+PAK-10506,PIMS Islamabad,Faisalabad,82,Male,O-,Fracture,Orthopedic,11/18/2022,2,102,142,60200,Yes,Under Treatment
+PAK-10597,pims islamabad,Quetta,87,Male,AB-,Heart Disease,Orthopedic,5/9/2023,18,97.9,161,55700,Yes,Referred
+PAK-10658,PKLI LAHORE,Lahore,,Female,A+,Typhoid,Orthopedic,3/23/2022,27,98.9,91,,Yes,Discharged
+PAK-10641,Jinnah Hospital Lahore,Quetta,21,Female,B+,COVID-19,Pediatric,1/10/2024,7,98.1,116,12000,Yes,Admitted
+PAK-10607,Aga Khan Hospital Karachi,Islamabad,45,Male,A-,Kidney Stone,Cardiac,3/1/2021,5,102.4,167,29500,Partial,Referred
+PAK-10557,Services Hospital Lahore,Quetta,31,Male,,Jaundice,General,7/22/2022,9,98.7,159,53500,Yes,Under Treatment
+PAK-10086,Hayatabad Medical Peshawar,Multan,80,Male,AB-,COVID-19,General,3/7/2021,23,101.7,168,104300,No,Under Treatment
+PAK-10243,Hayatabad Medical Peshawar,Islamabad,12,Male,B-,Dengue Fever,Emergency,7/25/2022,3,104.3,110,16300,,Admitted
+PAK-10160,AGA KHAN HOSPITAL KARACHI,Rawalpindi,55,Female,,Jaundice,Orthopedic,1/14/2023,5,100.1,160,62200,Yes,Admitted
+PAK-10525,Civil Hospital Karachi,PESHAWAR,21,Female,B+,Asthma,Orthopedic,3/30/2023,25,97.3,102,11300,No,Discharged
+PAK-10036,AGA KHAN HOSPITAL KARACHI,Karachi,34,Male,B-,pneumonia,Emergency,7/29/2021,27,101.1,136,19900,Partial,Discharged
+PAK-10541,liaquat national karachi,Karachi,6,Male,A+,Kidney Stone,Maternity,8/10/2023,5,100.5,156,22600,No,Admitted
+PAK-10171,Shaukat Khanum Lahore,peshawar,89,Female,AB-,PNEUMONIA,Orthopedic,9/15/2021,17,103.5,114,60800,No,Discharged
+PAK-10609,Shaukat Khanum Lahore,lahore,36,Female,AB-,Typhoid,Surgical,11/20/2022,20,100.1,93,21300,No,Under Treatment
+PAK-10696,Liaquat National Karachi,quetta,79,Male,AB+,hypertension,Pediatric,6/7/2023,21,98.4,135,47400,No,Discharged
+PAK-10670,Civil Hospital Karachi,Multan,24,Male,A+,diabetes type 2,Surgical,2/22/2021,28,101.4,95,32000,,Discharged
+PAK-10096,PIMS Islamabad,Quetta,,Female,AB-,Appendicitis,Cardiac,3/22/2023,18,97.9,139,40400,No,Referred
+PAK-10564,Aga Khan Hospital Karachi,lahore,21,Female,B+,malaria,Pediatric,8/9/2022,27,100.3,123,12600,No,Discharged
+PAK-10241,PKLI Lahore,Karachi,26,Female,B+,hepatitis b,Maternity,5/15/2023,25,98.9,110,33600,Yes,Admitted
+PAK-10575,civil hospital karachi,Multan,52,Male,AB-,COVID-19,Maternity,11/9/2021,5,103.9,146,25200,Yes,Discharged
+PAK-10461,PIMS Islamabad,Multan,73,Male,B+,Typhoid,Maternity,2/8/2022,15,100.5,143,12100,No,Admitted
+PAK-10554,Hayatabad Medical Peshawar,Quetta,2,Male,O-,Typhoid,General,7/11/2023,15,102.5,119,15600,Yes,Discharged
+PAK-10624,PIMS Islamabad,Rawalpindi,38,Male,O-,Hepatitis B,Surgical,8/4/2023,26,98.9,160,37600,No,Admitted
+PAK-10207,Shaukat Khanum Lahore,KARACHI,1,Male,B-,Hypertension,ICU,5/26/2021,14,99.6,147,14100,No,Discharged
+PAK-10393,Liaquat National Karachi,Lahore,5,Female,AB+,Fracture,Pediatric,1/3/2023,10,103.6,114,14100,No,Discharged
+PAK-10398,Liaquat National Karachi,Islamabad,8,Male,AB-,Jaundice,Pediatric,2/21/2024,17,106.3,174,16500,No,Discharged
+PAK-10602,PIMS Islamabad,Quetta,13,Male,O+,pneumonia,Orthopedic,9/27/2023,23,98.5,,45200,No,Admitted
+PAK-10218,PIMS Islamabad,Lahore,21,Male,,TUBERCULOSIS,ICU,5/13/2022,10,102.7,153,28300,Yes,Admitted
+PAK-10005,Shaukat Khanum Lahore,Multan,37,Male,A-,Pneumonia,ICU,4/3/2022,8,97.2,121,,No,Admitted
+PAK-10635,hayatabad medical peshawar,Islamabad,60,Male,A+,covid-19,General,7/24/2022,11,101.4,167,148600,Partial,Discharged
+PAK-10547,Liaquat National Karachi,LAHORE,83,Male,B+,Heart Disease,General,6/8/2024,12,101.6,112,28900,Partial,Admitted
+PAK-10099,PIMS Islamabad,Quetta,84,Female,B+,Jaundice,Surgical,6/27/2022,21,101.9,128,10600,Partial,Discharged
+PAK-10574,Jinnah Hospital Lahore,Karachi,17,Male,O-,Heart Disease,ICU,2/24/2023,19,104.9,165,65200,No,Discharged
+PAK-10407,Jinnah Hospital Lahore,Islamabad,2,Male,B-,Typhoid,Emergency,1/3/2022,17,99.5,129,32300,No,Discharged
+PAK-10503,Shaukat Khanum Lahore,Faisalabad,82,Female,A-,Appendicitis,Pediatric,8/5/2022,26,106.7,152,74000,,Admitted
+PAK-10048,Services Hospital Lahore,Rawalpindi,26,Female,A-,Malaria,ICU,2/15/2023,13,100.1,119,89200,Yes,Discharged
+PAK-10033,Civil Hospital Karachi,Faisalabad,36,Female,AB-,Dengue Fever,Emergency,11/15/2021,27,97.9,133,,No,Discharged
+PAK-10201,Jinnah Hospital Lahore,lahore,70,Female,O+,Heart Disease,Pediatric,5/26/2021,26,100.7,134,24000,Partial,Under Treatment
+PAK-10135,pims islamabad,Karachi,,Female,,Malaria,ICU,8/25/2022,8,101.8,135,93600,Partial,Admitted
+PAK-10028,Hayatabad Medical Peshawar,Multan,60,Female,O+,Typhoid,General,1/14/2021,6,96,176,11200,Yes,Deceased
+PAK-10626,PKLI Lahore,RAWALPINDI,21,Male,AB+,Asthma,Cardiac,4/13/2021,9,102,108,2900,Yes,Discharged
+PAK-10231,PKLI Lahore,Peshawar,46,Male,B-,pneumonia,Orthopedic,5/5/2021,27,101,114,132100,No,Discharged
+PAK-10490,PIMS ISLAMABAD,Islamabad,6,Female,A-,Hypertension,General,3/7/2022,14,100.1,164,19500,Partial,Discharged
+PAK-10379,Services Hospital Lahore,Faisalabad,39,Female,A-,DIABETES TYPE 2,General,6/4/2021,2,99.6,112,23200,No,Discharged
+PAK-10289,PIMS Islamabad,quetta,75,Male,,Pneumonia,General,11/7/2023,20,99.9,91,38000,No,Discharged
+PAK-10419,SHAUKAT KHANUM LAHORE,Faisalabad,36,Female,AB+,Tuberculosis,Cardiac,8/1/2023,14,100,109,,No,Admitted
+PAK-10392,Services Hospital Lahore,Lahore,,Female,B-,Malaria,Surgical,3/23/2021,25,98.9,173,42400,No,Discharged
+PAK-10593,Shaukat Khanum Lahore,Quetta,21,Male,A-,Kidney Stone,Maternity,1/13/2021,12,101.6,93,27700,Partial,Referred
+PAK-10499,services hospital lahore,Lahore,35,Female,O-,hypertension,Maternity,11/13/2023,28,99.2,103,57400,,Discharged
+PAK-10139,Hayatabad Medical Peshawar,Lahore,43,Male,AB-,Typhoid,ICU,1/7/2021,1,102.3,107,,,Admitted
+PAK-10063,Liaquat National Karachi,Quetta,89,Male,O+,Tuberculosis,Orthopedic,2/18/2023,17,95.2,138,69000,No,Admitted
+PAK-10472,Shaukat Khanum Lahore,Karachi,6,Male,AB+,Jaundice,General,4/17/2023,3,101,101,14800,Yes,Discharged
+PAK-10129,Jinnah Hospital Lahore,Rawalpindi,,Male,B-,typhoid,ICU,1/24/2021,12,99,115,12000,No,Discharged
+PAK-10692,Services Hospital Lahore,Islamabad,8,Male,B+,Typhoid,Emergency,1/26/2021,29,100,151,9400,Partial,Admitted
+PAK-10521,pkli lahore,Karachi,,Male,AB-,Heart Disease,Cardiac,3/24/2024,19,101.7,110,19000,No,Under Treatment
+PAK-10065,Aga Khan Hospital Karachi,Peshawar,2,Male,A-,Malaria,ICU,7/18/2023,26,102.8,165,38900,No,Referred
+PAK-10015,Civil Hospital Karachi,Karachi,79,Male,B+,Appendicitis,Emergency,3/24/2022,28,99.3,98,29100,Yes,Discharged
+PAK-10157,Liaquat National Karachi,KARACHI,,Female,A-,Kidney Stone,General,9/28/2023,22,101.7,140,46300,No,Discharged
+PAK-10041,Civil Hospital Karachi,Lahore,58,Male,B-,Kidney Stone,Emergency,12/6/2022,9,102,147,,No,Admitted
+PAK-10493,PKLI Lahore,Lahore,7,Female,O+,Typhoid,Orthopedic,5/27/2024,15,101.9,97,19700,Yes,Admitted
+PAK-10380,Jinnah Hospital Lahore,Peshawar,36,Male,AB+,Heart Disease,Pediatric,11/2/2021,23,99.5,151,7100,No,Deceased
+PAK-10188,Services Hospital Lahore,Karachi,73,Male,,Pneumonia,Pediatric,7/14/2023,23,98.8,156,47000,Yes,Discharged
+PAK-10217,HAYATABAD MEDICAL PESHAWAR,Islamabad,15,Male,B+,fracture,Surgical,8/27/2023,1,100,,12100,Yes,Discharged
+PAK-10053,PKLI Lahore,Peshawar,14,Female,,malaria,Emergency,1/11/2023,20,99.4,102,24400,Yes,Referred
+PAK-10338,Services Hospital Lahore,Rawalpindi,36,Female,B-,Asthma,Pediatric,6/17/2023,29,99.5,125,15800,Partial,Discharged
+PAK-10296,Aga Khan Hospital Karachi,Islamabad,63,Female,O-,Hypertension,Orthopedic,4/7/2023,20,101,140,16400,No,Discharged
+PAK-10252,Shaukat Khanum Lahore,Islamabad,87,Female,AB-,Dengue Fever,ICU,1/31/2021,10,99.4,165,38100,Partial,Discharged
+PAK-10462,Civil Hospital Karachi,Karachi,65,Male,A+,Appendicitis,Surgical,1/16/2023,19,98.3,,19900,Yes,Discharged
+PAK-10456,HAYATABAD MEDICAL PESHAWAR,Faisalabad,36,Male,B-,Hepatitis B,ICU,4/1/2021,14,99.8,115,13100,Partial,Discharged
+PAK-10204,Aga Khan Hospital Karachi,Rawalpindi,23,Male,O-,Dengue Fever,Orthopedic,5/19/2021,4,100.4,113,15100,Yes,Admitted
+PAK-10270,PIMS Islamabad,Quetta,19,Female,B-,Malaria,Surgical,2/13/2024,2,100.9,126,Rs.21700.0,Yes,Admitted
+PAK-10202,Hayatabad Medical Peshawar,Faisalabad,82,Male,B+,Hepatitis B,ICU,5/1/2021,17,101,169,78600,Yes,Referred
+PAK-10162,PKLI Lahore,Lahore,74,Male,A+,Typhoid,Maternity,5/6/2022,19,99.8,178,26100,No,Under Treatment
+PAK-10556,Civil Hospital Karachi,Lahore,50,Female,B-,HYPERTENSION,Orthopedic,5/22/2022,26,99.2,121,50900,No,Admitted
+PAK-10402,Jinnah Hospital Lahore,KARACHI,44,Male,AB-,Typhoid,Maternity,4/30/2022,13,99.5,150,20700,No,Discharged
+PAK-10477,Shaukat Khanum Lahore,Islamabad,86,Male,A+,Jaundice,Surgical,9/18/2021,24,99.3,168,30400,No,Discharged
+PAK-10106,Shaukat Khanum Lahore,Rawalpindi,44,Male,A+,Hepatitis B,General,5/28/2023,20,100.6,112,20700,No,Discharged
+PAK-10566,Aga Khan Hospital Karachi,Faisalabad,28,Female,AB-,Malaria,Emergency,7/11/2022,10,96,136,29300,,Discharged
+PAK-10390,liaquat national karachi,LAHORE,60,Female,O+,Tuberculosis,General,9/24/2022,1,103.5,159,16600,Yes,Referred
+PAK-10002,Services Hospital Lahore,Multan,18,Female,O+,Malaria,Pediatric,2/21/2021,4,97.2,120,53400,No,Admitted
+PAK-10665,PIMS Islamabad,Multan,87,Male,B-,Kidney Stone,General,8/23/2021,15,104.3,91,39200,Yes,Admitted
+PAK-10562,Civil Hospital Karachi,Islamabad,83,Male,A+,Tuberculosis,Surgical,6/20/2023,16,101.5,177,25500,No,Referred
+PAK-10081,PIMS Islamabad,Lahore,31,Female,B-,ASTHMA,Pediatric,2/15/2024,17,101.8,109,20200,No,Admitted
+PAK-10206,PIMS Islamabad,Lahore,75,Female,AB-,Heart Disease,Orthopedic,11/8/2022,28,99.5,100,Rs.26300.0,No,Admitted
+PAK-10035,Shaukat Khanum Lahore,KARACHI,79,Female,O+,Heart Disease,Pediatric,11/21/2022,17,102.5,120,29800,Partial,Discharged
+PAK-10509,Liaquat National Karachi,Islamabad,66,Male,O-,Typhoid,Pediatric,9/28/2022,8,101,145,40300,Yes,Discharged
+PAK-10428,Services Hospital Lahore,Lahore,55,Male,AB-,Fracture,Emergency,7/25/2022,13,99.8,159,27800,Partial,Deceased
+PAK-10455,Services Hospital Lahore,Rawalpindi,14,Female,AB-,Malaria,Cardiac,6/6/2022,14,100.7,126,18800,Yes,Discharged
+PAK-10367,Shaukat Khanum Lahore,faisalabad,67,Female,O-,Tuberculosis,Pediatric,4/1/2021,8,99.5,112,9100,No,Discharged
+PAK-10092,shaukat khanum lahore,Karachi,20,Male,B+,Diabetes Type 2,Orthopedic,3/7/2024,13,97.4,115,Rs.65200.0,No,Admitted
+PAK-10340,Services Hospital Lahore,Karachi,55,Female,B-,Kidney Stone,Maternity,9/12/2022,26,103.6,158,12200,No,Discharged
+PAK-10565,LIAQUAT NATIONAL KARACHI,Multan,73,Male,O+,Heart Disease,Maternity,4/26/2022,3,98.7,129,6300,No,Admitted
+PAK-10346,PIMS Islamabad,Lahore,81,Male,A-,Hepatitis B,Pediatric,8/1/2021,27,99.8,171,23300,No,Admitted
+PAK-10242,PIMS Islamabad,Multan,25,Male,B+,JAUNDICE,Pediatric,1/11/2022,2,94.1,154,1900,No,Discharged
+PAK-10014,PKLI Lahore,islamabad,63,Female,B+,Dengue Fever,Orthopedic,7/11/2021,3,96.9,,12500,Yes,Discharged
+PAK-10316,Jinnah Hospital Lahore,Lahore,26,Female,O+,Kidney Stone,Surgical,9/26/2021,12,104.1,158,65700,No,Admitted
+PAK-10601,Jinnah Hospital Lahore,Peshawar,65,Female,B+,Malaria,Cardiac,3/28/2022,9,100.3,146,19300,No,Deceased
+PAK-10388,PIMS ISLAMABAD,Islamabad,13,Female,O+,COVID-19,ICU,9/19/2021,5,100,106,27800,No,Discharged
+PAK-10274,JINNAH HOSPITAL LAHORE,Peshawar,52,Female,A+,Typhoid,Orthopedic,8/31/2022,12,96.8,176,48400,Yes,Under Treatment
+PAK-10167,PIMS Islamabad,Lahore,,Male,A-,APPENDICITIS,Emergency,6/25/2021,3,101.6,98,12300,No,Discharged
+PAK-10475,Civil Hospital Karachi,Islamabad,43,Male,A-,fracture,Maternity,8/29/2022,12,96.4,132,23100,Partial,Discharged
+PAK-10647,SERVICES HOSPITAL LAHORE,Lahore,86,Male,O-,Malaria,Orthopedic,3/5/2021,10,105.2,174,16400,No,Admitted
+PAK-10485,Aga Khan Hospital Karachi,Multan,35,Male,O-,Fracture,Maternity,4/12/2023,3,97.1,,15400,Partial,Referred
+PAK-10695,Shaukat Khanum Lahore,Islamabad,66,Male,B-,Hypertension,ICU,8/5/2021,4,103.8,113,38600,No,Discharged
+PAK-10505,Shaukat Khanum Lahore,Multan,20,Female,A-,Tuberculosis,Cardiac,6/22/2024,13,97.7,156,8800,No,Referred
+PAK-10244,Services Hospital Lahore,MULTAN,5,Female,O+,Hepatitis B,Maternity,8/6/2023,26,97.9,116,12000,No,Under Treatment
+PAK-10567,Civil Hospital Karachi,Peshawar,62,Female,A-,Typhoid,Orthopedic,11/19/2022,11,97.7,168,41800,Yes,Discharged
+PAK-10563,Hayatabad Medical Peshawar,Lahore,9,Male,B+,Tuberculosis,ICU,6/8/2021,24,106,113,29800,Yes,Discharged
+PAK-10190,PIMS Islamabad,Karachi,41,Male,B+,Typhoid,General,5/23/2022,19,99.1,157,31000,Yes,Discharged
+PAK-10476,PIMS Islamabad,KARACHI,15,Male,A-,DIABETES TYPE 2,General,2/10/2024,8,99.3,126,28200,Yes,Discharged
+PAK-10511,Shaukat Khanum Lahore,Rawalpindi,54,Female,O-,Asthma,Orthopedic,2/12/2022,15,97.3,164,64700,No,Discharged
+PAK-10059,Services Hospital Lahore,Karachi,41,Female,B+,Appendicitis,Emergency,8/16/2022,1,99.2,159,23000,No,Discharged
+PAK-10475,Civil Hospital Karachi,Islamabad,43,Male,A-,fracture,Maternity,8/29/2022,12,96.4,132,23100,Partial,Discharged
+PAK-10561,PIMS Islamabad,peshawar,87,Female,A-,typhoid,Pediatric,7/17/2022,6,101,171,66500,No,Deceased
+PAK-10253,PIMS Islamabad,Rawalpindi,70,Female,A+,Asthma,Surgical,7/11/2021,19,97.2,165,3700,No,Discharged
+PAK-10022,PKLI Lahore,quetta,61,Female,O-,Fracture,Orthopedic,1/22/2024,29,99.9,114,19700,Partial,Discharged
+PAK-10314,Services Hospital Lahore,Peshawar,,Female,O-,Diabetes Type 2,ICU,6/28/2022,11,97.5,173,25300,No,Admitted
+PAK-10460,Services Hospital Lahore,Karachi,2,Male,B+,COVID-19,Orthopedic,1/8/2024,23,100.8,,51500,No,Admitted
+PAK-10161,AGA KHAN HOSPITAL KARACHI,Faisalabad,43,Male,B-,Appendicitis,Pediatric,9/22/2022,13,103.2,139,85500,Partial,Deceased
+PAK-10277,PIMS Islamabad,Rawalpindi,28,Female,B+,Appendicitis,Cardiac,4/1/2024,23,100.8,91,42200,No,Discharged
+PAK-10192,Services Hospital Lahore,Rawalpindi,48,Male,A+,Fracture,General,5/12/2021,4,98.4,90,31200,No,Discharged
+PAK-10386,Aga Khan Hospital Karachi,Faisalabad,41,Female,AB-,Kidney Stone,Cardiac,10/31/2021,22,101.3,150,19900,Partial,Discharged
+PAK-10414,Jinnah Hospital Lahore,Islamabad,30,Female,A-,Appendicitis,ICU,2/23/2023,16,100.4,121,13500,No,Discharged
+PAK-10492,Jinnah Hospital Lahore,MULTAN,80,Female,AB-,Tuberculosis,Emergency,4/2/2024,16,100.2,155,14300,Yes,Discharged
+PAK-10344,Services Hospital Lahore,KARACHI,33,Female,A+,Fracture,Surgical,2/10/2024,5,99.4,163,11000,Yes,Discharged
+PAK-10309,Aga Khan Hospital Karachi,Multan,45,Male,B+,Kidney Stone,Maternity,10/10/2022,25,96,146,5600,Yes,Discharged
+PAK-10662,Services Hospital Lahore,faisalabad,8,Male,A-,Hypertension,General,12/10/2021,25,100.3,129,3700,Yes,Under Treatment
+PAK-10131,Hayatabad Medical Peshawar,quetta,88,Female,AB-,Pneumonia,Surgical,1/5/2024,13,99,154,42900,No,Discharged
+PAK-10664,Hayatabad Medical Peshawar,Peshawar,72,Female,B-,Kidney Stone,Pediatric,5/28/2024,11,98.4,162,41500,No,Discharged
+PAK-10100,Jinnah Hospital Lahore,Multan,28,Male,O-,Appendicitis,Cardiac,10/13/2021,21,101.6,149,34800,No,Admitted
+PAK-10373,Civil Hospital Karachi,Quetta,60,Male,AB-,Tuberculosis,Pediatric,6/24/2023,9,98.9,119,9900,,Referred
+PAK-10088,Hayatabad Medical Peshawar,Karachi,10,Male,AB+,Malaria,Orthopedic,4/2/2023,22,100.2,172,39400,Yes,Referred
+PAK-10459,shaukat khanum lahore,Lahore,85,Male,,COVID-19,Surgical,12/1/2023,12,100.7,161,81700,Partial,Discharged
+PAK-10331,PKLI Lahore,Lahore,19,Female,A-,Fracture,Pediatric,9/29/2021,10,101.6,133,26400,Yes,Admitted
+PAK-10215,shaukat khanum lahore,rawalpindi,76,Male,A+,Typhoid,Surgical,3/15/2024,27,98.3,169,17100,Yes,Admitted
+PAK-10467,Civil Hospital Karachi,Lahore,23,Male,AB-,Dengue Fever,Orthopedic,10/5/2022,17,100.5,100,27100,No,Admitted
+PAK-10122,HAYATABAD MEDICAL PESHAWAR,KARACHI,70,Female,AB-,jaundice,Maternity,2/28/2023,12,101.4,107,22200,No,Discharged
+PAK-10615,Jinnah Hospital Lahore,Lahore,52,Male,A+,Hypertension,Maternity,12/30/2023,24,101.5,156,18700,,Referred
+PAK-10021,Jinnah Hospital Lahore,RAWALPINDI,58,Male,AB+,Appendicitis,Orthopedic,2/12/2022,22,100.6,157,36600,No,Discharged
+PAK-10214,Civil Hospital Karachi,Islamabad,65,Male,O+,Malaria,Maternity,9/28/2021,24,98.4,132,20200,No,Deceased
+PAK-10072,Shaukat Khanum Lahore,KARACHI,5,Male,A-,Malaria,Pediatric,5/27/2021,8,101.1,,20400,Partial,Admitted
+PAK-10107,Shaukat Khanum Lahore,Peshawar,56,Female,A+,Dengue Fever,General,4/10/2024,15,98.4,96,54400,No,Discharged
+PAK-10271,Services Hospital Lahore,Multan,34,Male,AB+,Tuberculosis,Surgical,9/24/2023,23,104,149,27500,Yes,Discharged
+PAK-10436,Aga Khan Hospital Karachi,Quetta,3,Male,O-,Heart Disease,Cardiac,2/26/2021,22,102.2,103,10200,Partial,Discharged
+PAK-10103,pims islamabad,Rawalpindi,76,Female,O+,COVID-19,Emergency,1/9/2024,17,101.6,172,71200,Yes,Under Treatment
